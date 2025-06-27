@@ -4,10 +4,9 @@ data <- read.csv("~/uu/Bachelorsscriptie/endfile.csv")
 # Load necessary library
 library(ggplot2)
 
-# Example dataset
 # data <- endfile
 
-# Create the bar chart
+# Create  bar chart
 ggplot(data, aes(x = Year)) +
   geom_bar() +
   labs(title = "Number of Datapoints per Year",
@@ -281,21 +280,21 @@ library(dplyr)
 library(ggplot2)
 library(tidyr)
 
-# Step 1: Load the raw data
+# Load the raw data
 strandings <- read.csv("~/uu/Bachelorsscriptie/Moderndatabasewithyear.csv")
 wind_turbines <- read.csv("~/uu/Bachelorsscriptie/Windmills_withoutdenmark.csv")
 
-# Step 2: Filter raw data to only include years up to 2025
+# Filter raw data to only include years up to 2025
 strandings <- strandings %>% filter(Year <= 2025)
 wind_turbines <- wind_turbines %>% filter(Year <= 2025)
 
-# Step 3: Count strandings per year
+# Count strandings per year
 strandings_per_year <- strandings %>%
   count(Year) %>%
   rename(occurrences = n) %>%
   mutate(type = "Strandings per year")
 
-# Step 4: Count wind turbines per year and make it cumulative
+# Count wind turbines per year and make it cumulative
 wind_turbines_per_year <- wind_turbines %>%
   count(Year) %>%
   arrange(Year) %>%
@@ -303,10 +302,10 @@ wind_turbines_per_year <- wind_turbines %>%
   select(Year, occurrences) %>%
   mutate(type = "Total n of wind farms")
 
-# Step 5: Combine both datasets
+# Combine both datasets
 combined_data <- bind_rows(strandings_per_year, wind_turbines_per_year)
 
-# Step 6: Plot with trend line for strandings only
+# Plot with trend line for strandings only
 ggplot(combined_data, aes(x = Year, y = occurrences, color = type)) +
   geom_line(size = 1) +
   geom_point() +
@@ -331,21 +330,21 @@ library(dplyr)
 library(ggplot2)
 library(tidyr)
 
-# Step 1: Load the raw data
+# Load the raw data
 strandings <- read.csv("~/uu/Bachelorsscriptie/Moderndatabasewithyear.csv")
 wind_turbines <- read.csv("~/uu/Bachelorsscriptie/Windmills_onlyengland.csv")
 
-# Step 2: Filter raw data to only include years up to 2025
+# Filter raw data to only include years up to 2025
 strandings <- strandings %>% filter(Year <= 2025)
 wind_turbines <- wind_turbines %>% filter(Year <= 2025)
 
-# Step 3: Count strandings per year
+# Count strandings per year
 strandings_per_year <- strandings %>%
   count(Year) %>%
   rename(occurrences = n) %>%
   mutate(type = "Strandings per year")
 
-# Step 4: Count wind turbines per year and make it cumulative
+# Count wind turbines per year and make it cumulative
 wind_turbines_per_year <- wind_turbines %>%
   count(Year) %>%
   arrange(Year) %>%
@@ -353,10 +352,10 @@ wind_turbines_per_year <- wind_turbines %>%
   select(Year, occurrences) %>%
   mutate(type = "Total n of wind farms")
 
-# Step 5: Combine both datasets
+# Combine both datasets
 combined_data <- bind_rows(strandings_per_year, wind_turbines_per_year)
 
-# Step 6: Plot with trend line for strandings only
+# Plot with trend line for strandings only
 ggplot(combined_data, aes(x = Year, y = occurrences, color = type)) +
   geom_line(size = 1) +
   geom_point() +
