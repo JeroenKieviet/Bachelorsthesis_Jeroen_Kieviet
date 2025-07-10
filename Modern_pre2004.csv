@@ -1,0 +1,763 @@
+mreference,class_field,subclass,event,eventnumberinyear,speciesscientific,speciescommon,datefound,datecertainty,latitudewgs84,longitudewgs84,sex,length,lengthuncertain,conditionfound,examinationlevel,Year,Source
+M17/90,Cetacean,Harbour porpoise,Single,17,Phocoena phocoena,Harbour porpoise,1990-04-10,Exact,58.79436874,-2.920483351,U,NA,FALSE,unknown,not necropsied,1990,Modern
+M18/90,Cetacean,Harbour porpoise,Single,18,Phocoena phocoena,Harbour porpoise,1990-05-13,Exact,57.39171982,-6.039045334,F,156,FALSE,unknown,not necropsied,1990,Modern
+M22/90,Cetacean,Harbour porpoise,Single,22,Phocoena phocoena,Harbour porpoise,1990-06-07,Exact,60.52709579,-0.610899866,M,151,FALSE,freshly dead- died on beach (code 2a),necropsied,1990,Modern
+M23/90,Cetacean,Harbour porpoise,Single,23,Phocoena phocoena,Harbour porpoise,1990-07-01,Unknown,60.30149078,-1.356991172,M,125,FALSE,freshly dead- died on beach (code 2a),necropsied,1990,Modern
+M27/90,Cetacean,Harbour porpoise,Single,27,Phocoena phocoena,Harbour porpoise,1990-07-19,Exact,56.1280632,-3.11611414,M,137,FALSE,advanced decomposition (code 4),necropsied,1990,Modern
+M30/90,Cetacean,Harbour porpoise,Single,30,Phocoena phocoena,Harbour porpoise,1990-08-01,Exact,60.27845383,-1.159211278,M,143,FALSE,freshly dead- died on beach (code 2a),necropsied,1990,Modern
+M32/90,Cetacean,Harbour porpoise,Single,32,Phocoena phocoena,Harbour porpoise,1990-08-14,Exact,57.25284958,-2.034775257,F,146,FALSE,unknown,not necropsied,1990,Modern
+M34/90,Cetacean,Harbour porpoise,Single,34,Phocoena phocoena,Harbour porpoise,1990-09-03,Exact,56.78693771,-2.348598003,F,146,FALSE,moderate decomposition (code 3),necropsied,1990,Modern
+M36/90,Cetacean,Harbour porpoise,Single,36,Phocoena phocoena,Harbour porpoise,1990-09-14,Unknown,57.59463882,-3.846152067,U,NA,TRUE,unknown,not necropsied,1990,Modern
+M38/90,Cetacean,Harbour porpoise,Single,38,Phocoena phocoena,Harbour porpoise,1990-10-21,Exact,58.95122147,-2.835994959,U,NA,FALSE,unknown,not necropsied,1990,Modern
+M5/91,Cetacean,Harbour porpoise,Single,5,Phocoena phocoena,Harbour porpoise,1991-03-01,Exact,58.96274567,-2.984081507,U,NA,FALSE,unknown,not necropsied,1991,Modern
+M6/91,Cetacean,Harbour porpoise,Single,6,Phocoena phocoena,Harbour porpoise,1991-03-20,Exact,56.0006752,-4.851265907,M,143,FALSE,Slight decomposition (code 2b),not necropsied,1991,Modern
+M7/91,Cetacean,Harbour porpoise,Single,7,Phocoena phocoena,Harbour porpoise,1991-04-27,Exact,58.91513824,-2.986190796,U,100,TRUE,advanced decomposition (code 4),not necropsied,1991,Modern
+M1068/91,Cetacean,Harbour porpoise,Single,106,Phocoena phocoena,Harbour porpoise,1991-06-04,Exact,57.58892822,-3.891863108,F,161,FALSE,moderate decomposition (code 3),necropsied,1991,Modern
+M9/91,Cetacean,Harbour porpoise,Single,9,Phocoena phocoena,Harbour porpoise,1991-06-10,Exact,56.7060585,-2.487495184,U,NA,TRUE,freshly dead- died on beach (code 2a),not necropsied,1991,Modern
+M11/91,Cetacean,Harbour porpoise,Single,11,Phocoena phocoena,Harbour porpoise,1991-06-15,Exact,56.33847427,-2.778008699,U,NA,TRUE,unknown,not necropsied,1991,Modern
+M12/91,Cetacean,Harbour porpoise,Single,12,Phocoena phocoena,Harbour porpoise,1991-06-16,Exact,56.90623856,-5.844896317,U,76,FALSE,unknown,not necropsied,1991,Modern
+M14/91,Cetacean,Harbour porpoise,Single,14,Phocoena phocoena,Harbour porpoise,1991-08-12,Exact,54.87192535,-3.608197689,M,60,FALSE,advanced decomposition (code 4),necropsied,1991,Modern
+M2051/91,Cetacean,Harbour porpoise,Single,205,Phocoena phocoena,Harbour porpoise,1991-10-09,Exact,57.681787,-4.0392614,M,148,FALSE,freshly dead-slight decomposition (code 2a-2b),necropsied,1991,Modern
+M21/91,Cetacean,Harbour porpoise,Single,21,Phocoena phocoena,Harbour porpoise,1991-11-09,Exact,56.01879883,-2.883867502,F,153,FALSE,Slight decomposition (code 2b),not necropsied,1991,Modern
+M1900/92,Cetacean,Harbour porpoise,Single,190,Phocoena phocoena,Harbour porpoise,1992-02-27,Exact,56.36582565,-6.148480415,M,106,TRUE,moderate decomposition (code 3),necropsied,1992,Modern
+M435/92,Cetacean,Harbour porpoise,Single,43,Phocoena phocoena,Harbour porpoise,1992-02-28,Exact,56.04719162,-3.555597544,U,135,TRUE,unknown,not necropsied,1992,Modern
+M853/92,Cetacean,Harbour porpoise,Single,85,Phocoena phocoena,Harbour porpoise,1992-03-19,Exact,56.42583466,-5.484859467,U,NA,TRUE,unknown,not necropsied,1992,Modern
+M674/92,Cetacean,Harbour porpoise,Single,67,Phocoena phocoena,Harbour porpoise,1992-04-01,Exact,57.15571594,-2.077649832,F,155,FALSE,Slight decomposition (code 2b),necropsied,1992,Modern
+M734/92,Cetacean,Harbour porpoise,Single,73,Phocoena phocoena,Harbour porpoise,1992-04-08,Exact,56.74354935,-2.433217525,U,NA,TRUE,unknown,not necropsied,1992,Modern
+M1054/92,Cetacean,Harbour porpoise,Single,105,Phocoena phocoena,Harbour porpoise,1992-05-17,Exact,57.82389069,-3.860388279,U,146,TRUE,indeterminate (code 5),not necropsied,1992,Modern
+M1111/92,Cetacean,Harbour porpoise,Single,111,Phocoena phocoena,Harbour porpoise,1992-05-25,Exact,57.66175079,-3.558721542,F,146,FALSE,Slight decomposition (code 2b),necropsied,1992,Modern
+M1115/92,Cetacean,Harbour porpoise,Single,111,Phocoena phocoena,Harbour porpoise,1992-05-25,Exact,57.74755096,-3.918628693,F,130,FALSE,moderate decomposition (code 3),necropsied,1992,Modern
+M1244/92,Cetacean,Harbour porpoise,Single,124,Phocoena phocoena,Harbour porpoise,1992-06-04,Exact,57.66997528,-2.348642826,U,NA,TRUE,unknown,not necropsied,1992,Modern
+M1712/92,Cetacean,Harbour porpoise,Single,171,Phocoena phocoena,Harbour porpoise,1992-06-04,Exact,57.66856766,-3.51541543,F,74,FALSE,unknown,necropsied,1992,Modern
+M1243/92,Cetacean,Harbour porpoise,Single,124,Phocoena phocoena,Harbour porpoise,1992-06-07,Exact,57.7021904,-3.231556892,U,118,TRUE,unknown,not necropsied,1992,Modern
+M1293/92,Cetacean,Harbour porpoise,Single,129,Phocoena phocoena,Harbour porpoise,1992-06-07,Exact,58.27242279,-6.280631542,U,NA,TRUE,unknown,not necropsied,1992,Modern
+M1232/92,Cetacean,Harbour porpoise,Single,123,Phocoena phocoena,Harbour porpoise,1992-06-08,Exact,56.36973953,-2.806174755,F,148,FALSE,unknown,necropsied,1992,Modern
+M1256/92,Cetacean,Harbour porpoise,Single,125,Phocoena phocoena,Harbour porpoise,1992-06-08,Exact,55.55281448,-4.660151958,F,78,FALSE,freshly dead- died on beach (code 2a),necropsied,1992,Modern
+M1224/92,Cetacean,Harbour porpoise,Single,122,Phocoena phocoena,Harbour porpoise,1992-06-08,Exact,57.68175125,-3.99063158,F,119,FALSE,freshly dead- died on beach (code 2a),necropsied,1992,Modern
+M1246/92,Cetacean,Harbour porpoise,Single,124,Phocoena phocoena,Harbour porpoise,1992-06-09,Exact,57.76498413,-3.894335508,F,72,FALSE,freshly dead- died on beach (code 2a),necropsied,1992,Modern
+M1225/92,Cetacean,Harbour porpoise,Single,122,Phocoena phocoena,Harbour porpoise,1992-06-09,Exact,55.98010254,-3.29647851,F,88.5,FALSE,Slight decomposition (code 2b),necropsied,1992,Modern
+M1348/92,Cetacean,Harbour porpoise,Single,134,Phocoena phocoena,Harbour porpoise,1992-06-20,Exact,57.69777679,-2.902562618,M,91,FALSE,freshly dead- died on beach (code 2a),necropsied,1992,Modern
+M1349/92,Cetacean,Harbour porpoise,Single,134,Phocoena phocoena,Harbour porpoise,1992-06-21,Exact,57.70138168,-2.900973082,M,80,FALSE,advanced decomposition (code 4),necropsied,1992,Modern
+M1362/92,Cetacean,Harbour porpoise,Single,136,Phocoena phocoena,Harbour porpoise,1992-06-22,Exact,58.96633148,-3.291991472,M,150,FALSE,unknown,necropsied,1992,Modern
+M1388/92,Cetacean,Harbour porpoise,Single,138,Phocoena phocoena,Harbour porpoise,1992-06-24,Exact,56.78872681,-2.350255489,U,105,TRUE,advanced decomposition (code 4),not necropsied,1992,Modern
+M1405/92,Cetacean,Harbour porpoise,Single,140,Phocoena phocoena,Harbour porpoise,1992-06-25,Exact,57.69727707,-2.845503092,F,123,FALSE,freshly dead- died on beach (code 2a),necropsied,1992,Modern
+M1504/92,Cetacean,Harbour porpoise,Single,150,Phocoena phocoena,Harbour porpoise,1992-07-05,Exact,57.59080124,-3.886945009,F,163,FALSE,freshly dead- died on beach (code 2a),necropsied,1992,Modern
+M1520/92,Cetacean,Harbour porpoise,Single,152,Phocoena phocoena,Harbour porpoise,1992-07-06,Exact,56.73544312,-2.438022614,U,105,TRUE,advanced decomposition (code 4),not necropsied,1992,Modern
+M1521/92,Cetacean,Harbour porpoise,Single,152,Phocoena phocoena,Harbour porpoise,1992-07-06,Exact,56.7282486,-2.439570427,U,105,TRUE,advanced decomposition (code 4),not necropsied,1992,Modern
+M1522/92,Cetacean,Harbour porpoise,Single,152,Phocoena phocoena,Harbour porpoise,1992-07-06,Exact,56.71565247,-2.44596076,U,105,TRUE,advanced decomposition (code 4),not necropsied,1992,Modern
+M1525/92,Cetacean,Harbour porpoise,Single,152,Phocoena phocoena,Harbour porpoise,1992-07-06,Exact,56.70395279,-2.452366114,U,110,TRUE,advanced decomposition (code 4),not necropsied,1992,Modern
+M1510/92,Cetacean,Harbour porpoise,Single,151,Phocoena phocoena,Harbour porpoise,1992-07-06,Exact,58.20825958,-6.395572186,M,141,FALSE,freshly dead- died on beach (code 2a),necropsied,1992,Modern
+M1581/92,Cetacean,Harbour porpoise,Single,158,Phocoena phocoena,Harbour porpoise,1992-07-08,Exact,56.69321442,-2.439176083,U,150,TRUE,unknown,not necropsied,1992,Modern
+M1559/92,Cetacean,Harbour porpoise,Single,155,Phocoena phocoena,Harbour porpoise,1992-07-09,Exact,57.71855545,-3.386562824,F,73,FALSE,unknown,necropsied,1992,Modern
+M1/92,Cetacean,Harbour porpoise,Single,1,Phocoena phocoena,Harbour porpoise,1992-07-11,Exact,57.67196655,-2.344979525,U,NA,TRUE,unknown,not necropsied,1992,Modern
+M1708/92,Cetacean,Harbour porpoise,Single,170,Phocoena phocoena,Harbour porpoise,1992-07-24,Exact,59.89870834,-1.33148253,M,85,FALSE,Slight decomposition (code 2b),necropsied,1992,Modern
+M1658/92,Cetacean,Harbour porpoise,Single,165,Phocoena phocoena,Harbour porpoise,1992-07-24,Exact,60.10803223,-1.570067525,M,143,FALSE,freshly dead- died on beach (code 2a),necropsied,1992,Modern
+M1738/92,Cetacean,Harbour porpoise,Single,173,Phocoena phocoena,Harbour porpoise,1992-08-05,Exact,57.59106827,-3.868556023,F,118,FALSE,Slight decomposition (code 2b),necropsied,1992,Modern
+M1812/92,Cetacean,Harbour porpoise,Single,181,Phocoena phocoena,Harbour porpoise,1992-08-11,Exact,57.67494202,-1.968106866,M,106,FALSE,unknown,necropsied,1992,Modern
+M1814/92,Cetacean,Harbour porpoise,Single,181,Phocoena phocoena,Harbour porpoise,1992-08-11,Exact,57.5897789,-3.953813076,F,120,FALSE,unknown,necropsied,1992,Modern
+M1970/92,Cetacean,Harbour porpoise,Single,197,Phocoena phocoena,Harbour porpoise,1992-08-30,Exact,54.86962891,-3.645515203,F,158,FALSE,advanced decomposition (code 4),necropsied,1992,Modern
+M2030/92,Cetacean,Harbour porpoise,Single,203,Phocoena phocoena,Harbour porpoise,1992-09-06,Exact,57.66300201,-3.602365017,F,121,FALSE,Slight decomposition (code 2b),necropsied,1992,Modern
+M2195/92,Cetacean,Harbour porpoise,Single,219,Phocoena phocoena,Harbour porpoise,1992-09-22,Exact,57.67107773,-2.544809341,F,122,FALSE,advanced decomposition (code 4),necropsied,1992,Modern
+M2212/92,Cetacean,Harbour porpoise,Single,221,Phocoena phocoena,Harbour porpoise,1992-09-23,Exact,57.67211533,-2.186050892,M,159,FALSE,Slight decomposition (code 2b),necropsied,1992,Modern
+M2267/92,Cetacean,Harbour porpoise,Single,226,Phocoena phocoena,Harbour porpoise,1992-09-29,Exact,57.72118759,-3.307745457,F,136,FALSE,advanced decomposition (code 4),necropsied,1992,Modern
+M2337/92,Cetacean,Harbour porpoise,Single,233,Phocoena phocoena,Harbour porpoise,1992-10-07,Exact,57.7254715,-3.32805419,M,107,FALSE,Slight decomposition (code 2b),necropsied,1992,Modern
+M2476/92,Cetacean,Harbour porpoise,Single,247,Phocoena phocoena,Harbour porpoise,1992-10-14,Exact,57.69776917,-2.904243231,U,NA,TRUE,advanced decomposition (code 4),not necropsied,1992,Modern
+M2547/92,Cetacean,Harbour porpoise,Single,254,Phocoena phocoena,Harbour porpoise,1992-11-03,Exact,56.61849213,-2.482301235,M,124,FALSE,freshly dead- died on beach (code 2a),necropsied,1992,Modern
+M2587/92,Cetacean,Harbour porpoise,Single,258,Phocoena phocoena,Harbour porpoise,1992-11-08,Exact,57.68148804,-3.140289545,U,156,TRUE,indeterminate (code 5),sampled,1992,Modern
+M2630/92,Cetacean,Harbour porpoise,Single,263,Phocoena phocoena,Harbour porpoise,1992-11-13,Exact,57.6840744,-3.495938301,M,116,FALSE,Slight decomposition (code 2b),necropsied,1992,Modern
+M2637/92,Cetacean,Harbour porpoise,Single,263,Phocoena phocoena,Harbour porpoise,1992-11-15,Exact,58.59547424,-3.369486809,M,152,FALSE,Slight decomposition (code 2b),necropsied,1992,Modern
+M2651/92,Cetacean,Harbour porpoise,Single,265,Phocoena phocoena,Harbour porpoise,1992-11-17,Exact,60.20959473,-1.370279431,M,151,FALSE,freshly dead- died on beach (code 2a),necropsied,1992,Modern
+M2679/92,Cetacean,Harbour porpoise,Single,267,Phocoena phocoena,Harbour porpoise,1992-11-22,Exact,57.72629166,-5.689774036,M,133,FALSE,moderate decomposition (code 3),necropsied,1992,Modern
+M2763/92,Cetacean,Harbour porpoise,Single,276,Phocoena phocoena,Harbour porpoise,1992-12-05,Exact,58.99446106,-2.946700335,M,128,FALSE,freshly dead- died on beach (code 2a),necropsied,1992,Modern
+M2858/92,Cetacean,Harbour porpoise,Single,285,Phocoena phocoena,Harbour porpoise,1992-12-18,Exact,54.85500336,-3.789792299,M,148,FALSE,unknown,necropsied,1992,Modern
+M42/93,Cetacean,Harbour porpoise,Single,4,Phocoena phocoena,Harbour porpoise,1993-01-06,Exact,57.38355637,-6.074783325,M,115,FALSE,unknown,necropsied,1993,Modern
+M279/93,Cetacean,Harbour porpoise,Single,27,Phocoena phocoena,Harbour porpoise,1993-01-17,Exact,57.30316925,-7.395502567,U,127,TRUE,unknown,not necropsied,1993,Modern
+M105/93,Cetacean,Harbour porpoise,Single,10,Phocoena phocoena,Harbour porpoise,1993-01-18,Exact,56.57896042,-6.281003475,F,154,FALSE,freshly dead- died on beach (code 2a),necropsied,1993,Modern
+M136/93,Cetacean,Harbour porpoise,Single,13,Phocoena phocoena,Harbour porpoise,1993-01-23,Exact,59.87080002,-1.315969467,F,110.5,FALSE,Slight decomposition (code 2b),necropsied,1993,Modern
+M185/93,Cetacean,Harbour porpoise,Single,18,Phocoena phocoena,Harbour porpoise,1993-01-25,Exact,59.87883759,-1.308650732,M,130,FALSE,Slight decomposition (code 2b),necropsied,1993,Modern
+M270/93,Cetacean,Harbour porpoise,Single,27,Phocoena phocoena,Harbour porpoise,1993-02-07,Exact,55.64271927,-4.820406914,F,168,FALSE,advanced decomposition (code 4),necropsied,1993,Modern
+M359/93,Cetacean,Harbour porpoise,Single,35,Phocoena phocoena,Harbour porpoise,1993-02-15,Exact,54.77595901,-4.364738941,U,NA,TRUE,unknown,not necropsied,1993,Modern
+M440/93,Cetacean,Harbour porpoise,Single,44,Phocoena phocoena,Harbour porpoise,1993-02-27,Exact,56.06040955,-2.70014143,M,133,FALSE,Slight decomposition (code 2b),necropsied,1993,Modern
+M491/93,Cetacean,Harbour porpoise,Single,49,Phocoena phocoena,Harbour porpoise,1993-03-05,Exact,57.20513153,-2.062868595,M,146,FALSE,freshly dead- died on beach (code 2a),necropsied,1993,Modern
+M492/93,Cetacean,Harbour porpoise,Single,49,Phocoena phocoena,Harbour porpoise,1993-03-07,Exact,56.06040955,-2.70014143,U,135,TRUE,advanced decomposition (code 4),not necropsied,1993,Modern
+M517/93,Cetacean,Harbour porpoise,Single,51,Phocoena phocoena,Harbour porpoise,1993-03-09,Exact,57.50398636,-4.299777031,M,157,FALSE,Slight decomposition (code 2b),necropsied,1993,Modern
+M652/93,Cetacean,Harbour porpoise,Single,65,Phocoena phocoena,Harbour porpoise,1993-03-26,Exact,57.66642761,-3.010746717,U,110,TRUE,advanced decomposition (code 4),not necropsied,1993,Modern
+M752/93,Cetacean,Harbour porpoise,Single,75,Phocoena phocoena,Harbour porpoise,1993-04-08,Exact,58.03357315,-3.835688829,M,102,FALSE,freshly dead- died on beach (code 2a),necropsied,1993,Modern
+M791/93,Cetacean,Harbour porpoise,Single,79,Phocoena phocoena,Harbour porpoise,1993-04-14,Exact,57.13956451,-2.044582605,U,NA,FALSE,unknown,not necropsied,1993,Modern
+M831/93,Cetacean,Harbour porpoise,Single,83,Phocoena phocoena,Harbour porpoise,1993-04-19,Exact,57.40987778,-1.858489633,U,150,TRUE,advanced decomposition (code 4),not necropsied,1993,Modern
+M843/93,Cetacean,Harbour porpoise,Single,84,Phocoena phocoena,Harbour porpoise,1993-04-20,Exact,57.7254715,-3.32805419,F,145,FALSE,advanced decomposition (code 4),necropsied,1993,Modern
+M822/93,Cetacean,Harbour porpoise,Single,82,Phocoena phocoena,Harbour porpoise,1993-04-21,Exact,58.89968109,-2.888560057,F,110,FALSE,freshly dead- died on beach (code 2a),necropsied,1993,Modern
+M879/93,Cetacean,Harbour porpoise,Single,87,Phocoena phocoena,Harbour porpoise,1993-04-21,Exact,58.89968109,-2.888560057,U,90,TRUE,advanced decomposition (code 4),not necropsied,1993,Modern
+M906/93,Cetacean,Harbour porpoise,Single,90,Phocoena phocoena,Harbour porpoise,1993-04-28,Exact,57.67744827,-2.979185104,M,121,FALSE,freshly dead- died on beach (code 2a),necropsied,1993,Modern
+M930/93,Cetacean,Harbour porpoise,Single,93,Phocoena phocoena,Harbour porpoise,1993-04-30,Exact,57.66460419,-3.617511272,F,121,FALSE,Slight decomposition (code 2b),necropsied,1993,Modern
+M1063/93,Cetacean,Harbour porpoise,Single,106,Phocoena phocoena,Harbour porpoise,1993-05-16,Exact,59.53703308,-1.603888512,F,141,FALSE,freshly dead- died on beach (code 2a),necropsied,1993,Modern
+M1089/93,Cetacean,Harbour porpoise,Single,108,Phocoena phocoena,Harbour porpoise,1993-05-19,Exact,57.74845123,-3.918684959,M,127,FALSE,Slight decomposition (code 2b),necropsied,1993,Modern
+M1106/93,Cetacean,Harbour porpoise,Single,110,Phocoena phocoena,Harbour porpoise,1993-05-21,Exact,55.76209641,-6.363193989,M,97,FALSE,freshly dead- died on beach (code 2a),necropsied,1993,Modern
+M1116/93,Cetacean,Harbour porpoise,Single,111,Phocoena phocoena,Harbour porpoise,1993-05-22,Exact,57.66276932,-3.620789289,M,148,FALSE,advanced decomposition (code 4),necropsied,1993,Modern
+M1204/93,Cetacean,Harbour porpoise,Single,120,Phocoena phocoena,Harbour porpoise,1993-05-31,Exact,57.63835907,-5.804899693,M,152,FALSE,freshly dead- died on beach (code 2a),necropsied,1993,Modern
+M1190/93,Cetacean,Harbour porpoise,Single,119,Phocoena phocoena,Harbour porpoise,1993-05-31,Exact,58.50348663,-3.130787849,M,76,FALSE,Slight decomposition (code 2b),necropsied,1993,Modern
+M1227/93,Cetacean,Harbour porpoise,Single,122,Phocoena phocoena,Harbour porpoise,1993-06-03,Exact,57.88892746,-4.013887405,F,141,FALSE,Slight decomposition (code 2b),necropsied,1993,Modern
+M1257/93,Cetacean,Harbour porpoise,Single,125,Phocoena phocoena,Harbour porpoise,1993-06-04,Exact,56.2125206,-2.93184948,U,159,TRUE,advanced decomposition (code 4),not necropsied,1993,Modern
+M1255/93,Cetacean,Harbour porpoise,Single,125,Phocoena phocoena,Harbour porpoise,1993-06-04,Exact,56.2125206,-2.93184948,U,NA,TRUE,advanced decomposition (code 4),not necropsied,1993,Modern
+M1245/93,Cetacean,Harbour porpoise,Single,124,Phocoena phocoena,Harbour porpoise,1993-06-04,Exact,58.26197433,-6.323728085,U,80,TRUE,freshly dead- died on beach (code 2a),not necropsied,1993,Modern
+M1237/93,Cetacean,Harbour porpoise,Single,123,Phocoena phocoena,Harbour porpoise,1993-06-04,Exact,56.7253418,-5.247639179,F,160,FALSE,freshly dead- died on beach (code 2a),necropsied,1993,Modern
+M1248/93,Cetacean,Harbour porpoise,Single,124,Phocoena phocoena,Harbour porpoise,1993-06-06,Exact,57.66458511,-3.619190931,M,82,FALSE,unknown,necropsied,1993,Modern
+M1256/93,Cetacean,Harbour porpoise,Single,125,Phocoena phocoena,Harbour porpoise,1993-06-06,Exact,56.2125206,-2.93184948,U,87,TRUE,advanced decomposition (code 4),not necropsied,1993,Modern
+M1263/93,Cetacean,Harbour porpoise,Single,126,Phocoena phocoena,Harbour porpoise,1993-06-08,Exact,60.4859581,-1.545060039,F,156,FALSE,freshly dead- died on beach (code 2a),necropsied,1993,Modern
+M1296/93,Cetacean,Harbour porpoise,Single,129,Phocoena phocoena,Harbour porpoise,1993-06-10,Exact,57.2114296,-2.044664383,M,156,FALSE,freshly dead- died on beach (code 2a),necropsied,1993,Modern
+M1319/93,Cetacean,Harbour porpoise,Single,131,Phocoena phocoena,Harbour porpoise,1993-06-11,Exact,56.33575058,-2.781183958,M,74,FALSE,freshly dead- died on beach (code 2a),necropsied,1993,Modern
+M1344/93,Cetacean,Harbour porpoise,Single,134,Phocoena phocoena,Harbour porpoise,1993-06-13,Exact,57.69402313,-4.009770393,U,90,TRUE,advanced decomposition (code 4),not necropsied,1993,Modern
+M1347/93,Cetacean,Harbour porpoise,Single,134,Phocoena phocoena,Harbour porpoise,1993-06-14,Exact,57.71795654,-3.272378445,U,140,TRUE,advanced decomposition (code 4),not necropsied,1993,Modern
+M1325/93,Cetacean,Harbour porpoise,Single,132,Phocoena phocoena,Harbour porpoise,1993-06-14,Exact,57.68031311,-2.957461119,M,124,FALSE,unknown,necropsied,1993,Modern
+M1346/93,Cetacean,Harbour porpoise,Single,134,Phocoena phocoena,Harbour porpoise,1993-06-14,Exact,57.71878815,-3.279129744,F,120,FALSE,Slight decomposition (code 2b),necropsied,1993,Modern
+M1399/93,Cetacean,Harbour porpoise,Single,139,Phocoena phocoena,Harbour porpoise,1993-06-18,Exact,58.50348663,-3.130787849,U,NA,TRUE,indeterminate (code 5),not necropsied,1993,Modern
+M1400/93,Cetacean,Harbour porpoise,Single,140,Phocoena phocoena,Harbour porpoise,1993-06-18,Exact,58.50348663,-3.130787849,U,NA,TRUE,advanced decomposition (code 4),not necropsied,1993,Modern
+M1369/93,Cetacean,Harbour porpoise,Single,136,Phocoena phocoena,Harbour porpoise,1993-06-18,Exact,58.02545166,-3.8386724,F,124,FALSE,Slight decomposition (code 2b),necropsied,1993,Modern
+M1404/93,Cetacean,Harbour porpoise,Single,140,Phocoena phocoena,Harbour porpoise,1993-06-19,Exact,57.92238617,-4.000564098,U,140,TRUE,advanced decomposition (code 4),not necropsied,1993,Modern
+M1411/93,Cetacean,Harbour porpoise,Single,141,Phocoena phocoena,Harbour porpoise,1993-06-21,Exact,59.52267838,-1.607600331,M,82.5,TRUE,advanced decomposition (code 4),not necropsied,1993,Modern
+M1482/93,Cetacean,Harbour porpoise,Single,148,Phocoena phocoena,Harbour porpoise,1993-06-30,Exact,57.98932648,-3.655817509,F,74,FALSE,freshly dead- died on beach (code 2a),necropsied,1993,Modern
+M1564/93,Cetacean,Harbour porpoise,Single,156,Phocoena phocoena,Harbour porpoise,1993-07-02,Exact,56.05877304,-2.671200037,U,150,TRUE,freshly dead- died on beach (code 2a),not necropsied,1993,Modern
+M1559/93,Cetacean,Harbour porpoise,Single,155,Phocoena phocoena,Harbour porpoise,1993-07-07,Exact,57.68082428,-2.325282812,M,162,FALSE,freshly dead- died on beach (code 2a),necropsied,1993,Modern
+M1592/93,Cetacean,Harbour porpoise,Single,159,Phocoena phocoena,Harbour porpoise,1993-07-12,Exact,57.7264061,-3.324731588,M,137,FALSE,advanced decomposition (code 4),necropsied,1993,Modern
+M1646/93,Cetacean,Harbour porpoise,Single,164,Phocoena phocoena,Harbour porpoise,1993-07-18,Exact,57.6913414,-3.489532471,U,120,TRUE,Slight decomposition (code 2b),not necropsied,1993,Modern
+M1653/93,Cetacean,Harbour porpoise,Single,165,Phocoena phocoena,Harbour porpoise,1993-07-20,Exact,57.71054077,-2.29534173,F,156,FALSE,freshly dead- died on beach (code 2a),necropsied,1993,Modern
+M1730/93,Cetacean,Harbour porpoise,Single,173,Phocoena phocoena,Harbour porpoise,1993-07-23,Exact,55.97621155,-2.450233221,U,100,TRUE,advanced decomposition (code 4),not necropsied,1993,Modern
+M1848/93,Cetacean,Harbour porpoise,Single,184,Phocoena phocoena,Harbour porpoise,1993-08-15,Exact,58.61545944,-3.347876787,U,75,TRUE,indeterminate (code 5),not necropsied,1993,Modern
+M1847/93,Cetacean,Harbour porpoise,Single,184,Phocoena phocoena,Harbour porpoise,1993-08-15,Exact,58.61634445,-3.349627733,F,100,TRUE,advanced decomposition (code 4),not necropsied,1993,Modern
+M1916/93,Cetacean,Harbour porpoise,Single,191,Phocoena phocoena,Harbour porpoise,1993-08-18,Exact,54.91384125,-3.564623117,F,81,FALSE,Slight decomposition (code 2b),necropsied,1993,Modern
+M2053/93,Cetacean,Harbour porpoise,Single,205,Phocoena phocoena,Harbour porpoise,1993-09-05,Exact,57.57667542,-4.098621368,F,110,FALSE,freshly dead- died on beach (code 2a),necropsied,1993,Modern
+M2049/93,Cetacean,Harbour porpoise,Single,204,Phocoena phocoena,Harbour porpoise,1993-09-06,Exact,56.33934021,-2.78288126,F,166,FALSE,freshly dead- died on beach (code 2a),necropsied,1993,Modern
+M2142/93,Cetacean,Harbour porpoise,Single,214,Phocoena phocoena,Harbour porpoise,1993-09-11,Exact,59.23954391,-2.830783606,U,150,TRUE,advanced decomposition (code 4),not necropsied,1993,Modern
+M2189/93,Cetacean,Harbour porpoise,Single,218,Phocoena phocoena,Harbour porpoise,1993-09-20,Exact,58.87255478,-2.91387558,F,173,FALSE,advanced decomposition (code 4),necropsied,1993,Modern
+M2204/93,Cetacean,Harbour porpoise,Single,220,Phocoena phocoena,Harbour porpoise,1993-09-21,Exact,57.69370651,-3.972828388,F,132,FALSE,advanced decomposition (code 4),necropsied,1993,Modern
+M2251/93,Cetacean,Harbour porpoise,Single,225,Phocoena phocoena,Harbour porpoise,1993-09-27,Exact,57.71533585,-3.43343997,M,152,FALSE,advanced decomposition (code 4),necropsied,1993,Modern
+M2306/93,Cetacean,Harbour porpoise,Single,230,Phocoena phocoena,Harbour porpoise,1993-10-01,Exact,57.75298691,-3.915566444,F,102,FALSE,freshly dead- died on beach (code 2a),necropsied,1993,Modern
+M2316/93,Cetacean,Harbour porpoise,Single,231,Phocoena phocoena,Harbour porpoise,1993-10-02,Exact,56.77010345,-2.406512976,U,120,TRUE,advanced decomposition (code 4),sampled,1993,Modern
+M2359/93,Cetacean,Harbour porpoise,Single,235,Phocoena phocoena,Harbour porpoise,1993-10-08,Exact,57.97417831,-3.962856293,F,150,TRUE,advanced decomposition (code 4),sampled,1993,Modern
+M2378/93,Cetacean,Harbour porpoise,Single,237,Phocoena phocoena,Harbour porpoise,1993-10-10,Exact,55.57734299,-5.142621517,U,140,TRUE,advanced decomposition (code 4),not necropsied,1993,Modern
+M2380/93,Cetacean,Harbour porpoise,Single,238,Phocoena phocoena,Harbour porpoise,1993-10-12,Exact,57.89080048,-4.008934975,M,142,FALSE,freshly dead- died on beach (code 2a),necropsied,1993,Modern
+M2381/93,Cetacean,Harbour porpoise,Single,238,Phocoena phocoena,Harbour porpoise,1993-10-12,Exact,57.59012222,-3.87185359,M,137,FALSE,freshly dead- died on beach (code 2a),necropsied,1993,Modern
+M2558/93,Cetacean,Harbour porpoise,Single,255,Phocoena phocoena,Harbour porpoise,1993-11-03,Exact,58.19206238,-6.369727135,M,151,FALSE,freshly dead- died on beach (code 2a),necropsied,1993,Modern
+M2627/93,Cetacean,Harbour porpoise,Single,262,Phocoena phocoena,Harbour porpoise,1993-11-14,Exact,57.61042023,-7.1057477,M,107,FALSE,Slight decomposition (code 2b),necropsied,1993,Modern
+M2626/93,Cetacean,Harbour porpoise,Single,262,Phocoena phocoena,Harbour porpoise,1993-11-14,Exact,57.21098709,-7.425130367,F,85,FALSE,unknown,necropsied,1993,Modern
+M2648/93,Cetacean,Harbour porpoise,Single,264,Phocoena phocoena,Harbour porpoise,1993-11-18,Exact,57.69838715,-4.073781013,M,120,FALSE,freshly dead- died on beach (code 2a),necropsied,1993,Modern
+M1/93,Cetacean,Harbour porpoise,Single,297,Phocoena phocoena,Harbour porpoise,1993-12-29,Exact,58.94126511,-3.087733984,U,NA,FALSE,Slight decomposition (code 2b),not necropsied,1993,Modern
+M39/94,Cetacean,Harbour porpoise,Single,3,Phocoena phocoena,Harbour porpoise,1994-01-07,Exact,57.58790207,-3.900188208,F,160,FALSE,freshly dead- died on beach (code 2a),necropsied,1994,Modern
+M83/94,Cetacean,Harbour porpoise,Single,8,Phocoena phocoena,Harbour porpoise,1994-01-14,Exact,57.67716599,-3.12170887,F,140,TRUE,indeterminate (code 5),not necropsied,1994,Modern
+M84/94,Cetacean,Harbour porpoise,Single,8,Phocoena phocoena,Harbour porpoise,1994-01-17,Exact,57.64305496,-4.050509453,U,140,TRUE,advanced decomposition (code 4),not necropsied,1994,Modern
+M85/94,Cetacean,Harbour porpoise,Single,8,Phocoena phocoena,Harbour porpoise,1994-01-17,Exact,56.55151367,-2.595305443,M,140,FALSE,freshly dead- died on beach (code 2a),necropsied,1994,Modern
+M449/94,Cetacean,Harbour porpoise,Single,44,Phocoena phocoena,Harbour porpoise,1994-01-28,Exact,58.46306229,-5.05659008,U,NA,TRUE,advanced decomposition (code 4),not necropsied,1994,Modern
+M228/94,Cetacean,Harbour porpoise,Single,22,Phocoena phocoena,Harbour porpoise,1994-02-03,Exact,60.47046661,-1.481632471,U,160,TRUE,freshly dead- died on beach (code 2a),not necropsied,1994,Modern
+M365/94,Cetacean,Harbour porpoise,Single,36,Phocoena phocoena,Harbour porpoise,1994-02-05,Exact,57.3021698,-1.993330359,U,NA,TRUE,unknown,not necropsied,1994,Modern
+M665/94,Cetacean,Harbour porpoise,Single,66,Phocoena phocoena,Harbour porpoise,1994-02-05,Exact,57.26174545,-2.028148413,U,120,TRUE,freshly dead- died on beach (code 2a),not necropsied,1994,Modern
+M232/94,Cetacean,Harbour porpoise,Single,23,Phocoena phocoena,Harbour porpoise,1994-02-05,Exact,57.70739746,-4.126329422,F,120,FALSE,freshly dead- died on beach (code 2a),necropsied,1994,Modern
+M254/94,Cetacean,Harbour porpoise,Single,25,Phocoena phocoena,Harbour porpoise,1994-02-06,Exact,57.69164658,-3.989506483,F,150,FALSE,indeterminate (code 5),necropsied,1994,Modern
+M237/94,Cetacean,Harbour porpoise,Single,23,Phocoena phocoena,Harbour porpoise,1994-02-07,Exact,57.6975975,-3.491466522,F,119,FALSE,advanced decomposition (code 4),necropsied,1994,Modern
+M266/94,Cetacean,Harbour porpoise,Single,26,Phocoena phocoena,Harbour porpoise,1994-02-08,Exact,57.75027084,-3.917097569,M,130,FALSE,freshly dead- died on beach (code 2a),necropsied,1994,Modern
+M291/94,Cetacean,Harbour porpoise,Single,29,Phocoena phocoena,Harbour porpoise,1994-02-11,Exact,58.89968109,-2.888560057,M,138,FALSE,Slight decomposition (code 2b),necropsied,1994,Modern
+M364/94,Cetacean,Harbour porpoise,Single,36,Phocoena phocoena,Harbour porpoise,1994-02-18,Exact,55.99900436,-2.88662529,F,112,FALSE,freshly dead- died on beach (code 2a),necropsied,1994,Modern
+M392/94,Cetacean,Harbour porpoise,Single,39,Phocoena phocoena,Harbour porpoise,1994-02-23,Exact,57.66144562,-1.911134362,F,101,FALSE,freshly dead- died on beach (code 2a),necropsied,1994,Modern
+M430/94,Cetacean,Harbour porpoise,Single,43,Phocoena phocoena,Harbour porpoise,1994-02-25,Exact,56.00434113,-3.533029795,M,138,FALSE,freshly dead- died on beach (code 2a),necropsied,1994,Modern
+M429/94,Cetacean,Harbour porpoise,Single,42,Phocoena phocoena,Harbour porpoise,1994-03-01,Exact,57.3111496,-1.994980335,M,130,FALSE,Slight decomposition (code 2b),necropsied,1994,Modern
+M487/94,Cetacean,Harbour porpoise,Single,48,Phocoena phocoena,Harbour porpoise,1994-03-07,Exact,57.75301361,-3.913882256,M,138,FALSE,advanced decomposition (code 4),necropsied,1994,Modern
+M488/94,Cetacean,Harbour porpoise,Single,48,Phocoena phocoena,Harbour porpoise,1994-03-08,Exact,57.94123077,-4.001615047,U,120,TRUE,advanced decomposition (code 4),not necropsied,1994,Modern
+M623/94,Cetacean,Harbour porpoise,Single,62,Phocoena phocoena,Harbour porpoise,1994-03-23,Exact,58.19616699,-6.354887962,U,130,TRUE,advanced decomposition (code 4),not necropsied,1994,Modern
+M764/94,Cetacean,Harbour porpoise,Single,76,Phocoena phocoena,Harbour porpoise,1994-03-26,Exact,57.36555099,-7.409674644,U,107,TRUE,advanced decomposition (code 4),sampled,1994,Modern
+M958/94,Cetacean,Harbour porpoise,Single,95,Phocoena phocoena,Harbour porpoise,1994-03-30,Exact,60.1841507,-1.511393905,M,140,TRUE,advanced decomposition (code 4),not necropsied,1994,Modern
+M653/94,Cetacean,Harbour porpoise,Single,65,Phocoena phocoena,Harbour porpoise,1994-03-31,Exact,57.5790329,-4.118830681,F,112,FALSE,freshly dead- died on beach (code 2a),necropsied,1994,Modern
+M678/94,Cetacean,Harbour porpoise,Single,67,Phocoena phocoena,Harbour porpoise,1994-04-02,Exact,57.70394135,-3.486692905,F,129,TRUE,indeterminate (code 5),sampled,1994,Modern
+M796/94,Cetacean,Harbour porpoise,Single,79,Phocoena phocoena,Harbour porpoise,1994-04-18,Exact,56.00107574,-3.351697922,U,100,TRUE,advanced decomposition (code 4),not necropsied,1994,Modern
+M809/94,Cetacean,Harbour porpoise,Single,80,Phocoena phocoena,Harbour porpoise,1994-04-20,Exact,55.5797081,-4.663549423,U,110,TRUE,advanced decomposition (code 4),not necropsied,1994,Modern
+M844/94,Cetacean,Harbour porpoise,Single,84,Phocoena phocoena,Harbour porpoise,1994-04-23,Exact,57.56142426,-4.042571545,M,106,FALSE,freshly dead- died on beach (code 2a),necropsied,1994,Modern
+M2715/94,Cetacean,Harbour porpoise,Single,271,Phocoena phocoena,Harbour porpoise,1994-04-26,Exact,58.87251282,-2.920808077,U,146,TRUE,advanced decomposition (code 4),not necropsied,1994,Modern
+M948/94,Cetacean,Harbour porpoise,Single,94,Phocoena phocoena,Harbour porpoise,1994-05-04,Exact,57.6569519,-4.024481773,U,100,TRUE,advanced decomposition (code 4),not necropsied,1994,Modern
+M1005/94,Cetacean,Harbour porpoise,Single,100,Phocoena phocoena,Harbour porpoise,1994-05-13,Exact,57.71178818,-3.260408878,U,150,TRUE,indeterminate (code 5),sampled,1994,Modern
+M1034/94,Cetacean,Harbour porpoise,Single,103,Phocoena phocoena,Harbour porpoise,1994-05-17,Exact,57.69381714,-2.825300932,M,77,FALSE,freshly dead- died on beach (code 2a),necropsied,1994,Modern
+M1102/94,Cetacean,Harbour porpoise,Single,110,Phocoena phocoena,Harbour porpoise,1994-05-26,Exact,58.59947586,-4.020167351,M,82,FALSE,Slight decomposition (code 2b),necropsied,1994,Modern
+M1111/94,Cetacean,Harbour porpoise,Single,111,Phocoena phocoena,Harbour porpoise,1994-05-27,Exact,54.90884781,-5.020053387,U,100,TRUE,alive- refloated (code 1),not necropsied,1994,Modern
+M1122/94,Cetacean,Harbour porpoise,Single,112,Phocoena phocoena,Harbour porpoise,1994-05-28,Exact,54.92492294,-5.060287952,U,100,TRUE,advanced decomposition (code 4),not necropsied,1994,Modern
+M1115/94,Cetacean,Harbour porpoise,Single,111,Phocoena phocoena,Harbour porpoise,1994-05-30,Exact,57.50981903,-4.225011826,U,120,TRUE,indeterminate (code 5),not necropsied,1994,Modern
+M1125/94,Cetacean,Harbour porpoise,Single,112,Phocoena phocoena,Harbour porpoise,1994-05-30,Exact,58.68122101,-3.493579149,U,80,TRUE,freshly dead- died on beach (code 2a),not necropsied,1994,Modern
+M1215/94,Cetacean,Harbour porpoise,Single,121,Phocoena phocoena,Harbour porpoise,1994-06-04,Exact,57.14314651,-2.071026802,U,NA,TRUE,unknown,not necropsied,1994,Modern
+M1239/94,Cetacean,Harbour porpoise,Single,123,Phocoena phocoena,Harbour porpoise,1994-06-06,Exact,56.05183792,-3.681040764,U,NA,TRUE,unknown,not necropsied,1994,Modern
+M1167/94,Cetacean,Harbour porpoise,Single,116,Phocoena phocoena,Harbour porpoise,1994-06-07,Exact,57.67372894,-2.995849609,F,75,FALSE,freshly dead- died on beach (code 2a),necropsied,1994,Modern
+M1241/94,Cetacean,Harbour porpoise,Single,124,Phocoena phocoena,Harbour porpoise,1994-06-17,Exact,60.43890381,-1.449419618,U,65,TRUE,advanced decomposition (code 4),not necropsied,1994,Modern
+M1267/94,Cetacean,Harbour porpoise,Single,126,Phocoena phocoena,Harbour porpoise,1994-06-21,Exact,57.43816757,-7.395380974,F,77,FALSE,Slight decomposition (code 2b),necropsied,1994,Modern
+M1301/94,Cetacean,Harbour porpoise,Single,130,Phocoena phocoena,Harbour porpoise,1994-06-27,Exact,57.6173172,-4.085901737,U,100,TRUE,advanced decomposition (code 4),not necropsied,1994,Modern
+M1318/94,Cetacean,Harbour porpoise,Single,131,Phocoena phocoena,Harbour porpoise,1994-06-28,Exact,56.2096405,-2.955966949,F,78.7,FALSE,freshly dead- died on beach (code 2a),necropsied,1994,Modern
+M1349/94,Cetacean,Harbour porpoise,Single,134,Phocoena phocoena,Harbour porpoise,1994-07-01,Exact,55.98523331,-4.896630287,M,138,FALSE,freshly dead- died on beach (code 2a),necropsied,1994,Modern
+M1428/94,Cetacean,Harbour porpoise,Single,142,Phocoena phocoena,Harbour porpoise,1994-07-13,Exact,57.02881241,-7.454589844,U,60,TRUE,advanced decomposition (code 4),sampled,1994,Modern
+M1646/94,Cetacean,Harbour porpoise,Single,164,Phocoena phocoena,Harbour porpoise,1994-07-14,Exact,57.89450836,-7.048509121,U,NA,TRUE,advanced decomposition (code 4),not necropsied,1994,Modern
+M1541/94,Cetacean,Harbour porpoise,Single,154,Phocoena phocoena,Harbour porpoise,1994-07-28,Exact,57.57401657,-4.096797466,F,154,FALSE,freshly dead- died on beach (code 2a),necropsied,1994,Modern
+M1641/94,Cetacean,Harbour porpoise,Single,164,Phocoena phocoena,Harbour porpoise,1994-07-29,Exact,57.5412941,-7.40396452,M,142,TRUE,advanced decomposition (code 4),sampled,1994,Modern
+M1661/94,Cetacean,Harbour porpoise,Single,166,Phocoena phocoena,Harbour porpoise,1994-08-11,Exact,55.96112442,-2.395606041,F,147,FALSE,freshly dead- died on beach (code 2a),necropsied,1994,Modern
+M1719/94,Cetacean,Harbour porpoise,Single,171,Phocoena phocoena,Harbour porpoise,1994-08-21,Exact,60.50130081,-1.56852591,F,135,TRUE,advanced decomposition (code 4),not necropsied,1994,Modern
+M1710/94,Cetacean,Harbour porpoise,Single,171,Phocoena phocoena,Harbour porpoise,1994-08-22,Exact,57.67742157,-3.980342627,M,118,FALSE,advanced decomposition (code 4),necropsied,1994,Modern
+M1873/94,Cetacean,Harbour porpoise,Single,187,Phocoena phocoena,Harbour porpoise,1994-08-27,Exact,55.95394897,-3.122618675,U,NA,TRUE,alive- refloated (code 1),not necropsied,1994,Modern
+M1864/94,Cetacean,Harbour porpoise,Single,186,Phocoena phocoena,Harbour porpoise,1994-09-02,Exact,57.17879868,-7.420396328,U,167,TRUE,advanced decomposition (code 4),sampled,1994,Modern
+M1836/94,Cetacean,Harbour porpoise,Single,183,Phocoena phocoena,Harbour porpoise,1994-09-02,Exact,57.58901978,-4.112714291,M,102,FALSE,freshly dead- died on beach (code 2a),necropsied,1994,Modern
+M1951/94,Cetacean,Harbour porpoise,Single,195,Phocoena phocoena,Harbour porpoise,1994-09-16,Exact,56.51966095,-6.88779068,F,148,FALSE,freshly dead- died on beach (code 2a),necropsied,1994,Modern
+M1952/94,Cetacean,Harbour porpoise,Single,195,Phocoena phocoena,Harbour porpoise,1994-09-17,Exact,57.76318741,-3.894240856,F,150,FALSE,Slight decomposition (code 2b),necropsied,1994,Modern
+M1987/94,Cetacean,Harbour porpoise,Single,198,Phocoena phocoena,Harbour porpoise,1994-09-21,Exact,57.69220352,-4.011334419,F,104,FALSE,Slight decomposition (code 2b),necropsied,1994,Modern
+M2060/94,Cetacean,Harbour porpoise,Single,206,Phocoena phocoena,Harbour porpoise,1994-09-29,Exact,57.75027084,-3.917097569,M,122,FALSE,freshly dead- died on beach (code 2a),necropsied,1994,Modern
+M2179/94,Cetacean,Harbour porpoise,Single,217,Phocoena phocoena,Harbour porpoise,1994-10-14,Exact,57.57392502,-4.101807594,M,130,FALSE,freshly dead- died on beach (code 2a),necropsied,1994,Modern
+M2250/94,Cetacean,Harbour porpoise,Single,225,Phocoena phocoena,Harbour porpoise,1994-10-23,Exact,57.70739746,-4.126329422,M,122,FALSE,Slight decomposition (code 2b),necropsied,1994,Modern
+M2297/94,Cetacean,Harbour porpoise,Single,229,Phocoena phocoena,Harbour porpoise,1994-10-28,Exact,56.97459793,-7.520817757,F,110,FALSE,advanced decomposition (code 4),necropsied,1994,Modern
+M2294/94,Cetacean,Harbour porpoise,Single,229,Phocoena phocoena,Harbour porpoise,1994-10-28,Exact,56.83203888,-2.273630381,M,142,FALSE,freshly dead- died on beach (code 2a),necropsied,1994,Modern
+M2494/94,Cetacean,Harbour porpoise,Single,249,Phocoena phocoena,Harbour porpoise,1994-11-16,Exact,57.23957062,-7.450910091,M,160,TRUE,unknown,sampled,1994,Modern
+M2545/94,Cetacean,Harbour porpoise,Single,254,Phocoena phocoena,Harbour porpoise,1994-12-01,Exact,56.34728241,-2.805688858,F,121,FALSE,freshly dead- died on beach (code 2a),necropsied,1994,Modern
+M2553/94,Cetacean,Harbour porpoise,Single,255,Phocoena phocoena,Harbour porpoise,1994-12-03,Exact,55.75165176,-4.928692341,M,111,FALSE,freshly dead- died on beach (code 2a),necropsied,1994,Modern
+M2586/94,Cetacean,Harbour porpoise,Single,258,Phocoena phocoena,Harbour porpoise,1994-12-06,Exact,57.7505188,-3.900310755,U,120,TRUE,advanced decomposition (code 4),not necropsied,1994,Modern
+M2587/94,Cetacean,Harbour porpoise,Single,258,Phocoena phocoena,Harbour porpoise,1994-12-09,Exact,57.69313812,-3.489607096,M,104,FALSE,advanced decomposition (code 4),necropsied,1994,Modern
+M204/95,Cetacean,Harbour porpoise,Single,20,Phocoena phocoena,Harbour porpoise,1995-01-23,Exact,55.98543549,-2.899141073,F,100,FALSE,freshly dead- died on beach (code 2a),necropsied,1995,Modern
+M170/95,Cetacean,Harbour porpoise,Single,17,Phocoena phocoena,Harbour porpoise,1995-01-26,Exact,57.23828125,-7.439105511,F,125,TRUE,advanced decomposition (code 4),sampled,1995,Modern
+M435/95,Cetacean,Harbour porpoise,Single,43,Phocoena phocoena,Harbour porpoise,1995-02-13,Exact,56.84156418,-6.255196571,U,NA,TRUE,advanced decomposition (code 4),not necropsied,1995,Modern
+M349/95,Cetacean,Harbour porpoise,Single,34,Phocoena phocoena,Harbour porpoise,1995-02-25,Exact,54.92142487,-3.60392642,F,114,FALSE,freshly dead- died on beach (code 2a),necropsied,1995,Modern
+M438/95,Cetacean,Harbour porpoise,Single,43,Phocoena phocoena,Harbour porpoise,1995-03-09,Exact,60.09925079,-1.221333504,F,161,FALSE,freshly dead- died on beach (code 2a),necropsied,1995,Modern
+M446/95,Cetacean,Harbour porpoise,Single,44,Phocoena phocoena,Harbour porpoise,1995-03-13,Exact,59.92004776,-1.28991425,F,147,FALSE,freshly dead- died on beach (code 2a),necropsied,1995,Modern
+M529/95,Cetacean,Harbour porpoise,Single,52,Phocoena phocoena,Harbour porpoise,1995-03-21,Exact,58.85549545,-2.913431406,F,163,FALSE,freshly dead- died on beach (code 2a),necropsied,1995,Modern
+M584/95,Cetacean,Harbour porpoise,Single,58,Phocoena phocoena,Harbour porpoise,1995-03-29,Exact,55.48608017,-4.628726959,F,170,FALSE,freshly dead- died on beach (code 2a),necropsied,1995,Modern
+M750/95,Cetacean,Harbour porpoise,Single,75,Phocoena phocoena,Harbour porpoise,1995-04-22,Exact,58.20898438,-6.295135975,M,148,TRUE,advanced decomposition (code 4),not necropsied,1995,Modern
+M752/95,Cetacean,Harbour porpoise,Single,75,Phocoena phocoena,Harbour porpoise,1995-04-23,Exact,57.69378281,-2.830325603,M,123,FALSE,freshly dead- died on beach (code 2a),necropsied,1995,Modern
+M765/95,Cetacean,Harbour porpoise,Single,76,Phocoena phocoena,Harbour porpoise,1995-04-25,Exact,57.6931076,-2.927598953,M,111,FALSE,freshly dead- died on beach (code 2a),necropsied,1995,Modern
+M811/95,Cetacean,Harbour porpoise,Single,81,Phocoena phocoena,Harbour porpoise,1995-05-03,Exact,57.60224533,-4.018091202,M,129,FALSE,Slight decomposition (code 2b),necropsied,1995,Modern
+M872/95,Cetacean,Harbour porpoise,Single,87,Phocoena phocoena,Harbour porpoise,1995-05-10,Exact,56.11333084,-4.838675499,U,100,TRUE,advanced decomposition (code 4),not necropsied,1995,Modern
+M887/95,Cetacean,Harbour porpoise,Single,88,Phocoena phocoena,Harbour porpoise,1995-05-11,Exact,57.68284988,-4.034310818,M,110,FALSE,advanced decomposition (code 4),necropsied,1995,Modern
+M1103/95,Cetacean,Harbour porpoise,Single,110,Phocoena phocoena,Harbour porpoise,1995-06-10,Exact,57.27251816,-2.021517992,M,78,FALSE,Slight decomposition (code 2b),necropsied,1995,Modern
+M1158/95,Cetacean,Harbour porpoise,Single,115,Phocoena phocoena,Harbour porpoise,1995-06-12,Exact,56.05912399,-2.713503361,U,75,TRUE,freshly dead- died on beach (code 2a),not necropsied,1995,Modern
+M1147/95,Cetacean,Harbour porpoise,Single,114,Phocoena phocoena,Harbour porpoise,1995-06-17,Exact,55.9727211,-2.42136097,M,88,FALSE,freshly dead- died on beach (code 2a),necropsied,1995,Modern
+M1748/95,Cetacean,Harbour porpoise,Single,174,Phocoena phocoena,Harbour porpoise,1995-06-23,Exact,57.18716431,-2.07275486,U,NA,TRUE,advanced decomposition (code 4),not necropsied,1995,Modern
+M1190/95,Cetacean,Harbour porpoise,Single,119,Phocoena phocoena,Harbour porpoise,1995-06-23,Exact,57.92696381,-5.220355034,F,148,FALSE,advanced decomposition (code 4),necropsied,1995,Modern
+M1749/95,Cetacean,Harbour porpoise,Single,174,Phocoena phocoena,Harbour porpoise,1995-06-29,Exact,57.40629196,-1.861819386,U,NA,TRUE,advanced decomposition (code 4),not necropsied,1995,Modern
+M1579/95,Cetacean,Harbour porpoise,Single,157,Phocoena phocoena,Harbour porpoise,1995-07-03,Exact,55.91405487,-2.145541668,M,136,FALSE,Slight decomposition (code 2b),necropsied,1995,Modern
+M1220/95,Cetacean,Harbour porpoise,Single,122,Phocoena phocoena,Harbour porpoise,1995-07-03,Exact,57.68678665,-2.93248415,F,132,FALSE,freshly dead- died on beach (code 2a),necropsied,1995,Modern
+M1303/95,Cetacean,Harbour porpoise,Single,130,Phocoena phocoena,Harbour porpoise,1995-07-13,Exact,57.57409668,-4.091786861,F,124,FALSE,advanced decomposition (code 4),necropsied,1995,Modern
+M2111/95,Cetacean,Harbour porpoise,Single,211,Phocoena phocoena,Harbour porpoise,1995-07-26,Exact,57.82663345,-2.506737232,U,NA,TRUE,freshly dead- died on beach (code 2a),not necropsied,1995,Modern
+M1546/95,Cetacean,Harbour porpoise,Single,154,Phocoena phocoena,Harbour porpoise,1995-08-14,Exact,57.24915695,-2.041396379,U,100,TRUE,advanced decomposition (code 4),not necropsied,1995,Modern
+M1575/95,Cetacean,Harbour porpoise,Single,157,Phocoena phocoena,Harbour porpoise,1995-08-15,Exact,57.49028397,-4.262198448,F,119,FALSE,freshly dead- died on beach (code 2a),necropsied,1995,Modern
+M1679/95,Cetacean,Harbour porpoise,Single,167,Phocoena phocoena,Harbour porpoise,1995-08-24,Exact,57.70399475,-3.030242443,M,104,FALSE,freshly dead- died on beach (code 2a),necropsied,1995,Modern
+M1744/95,Cetacean,Harbour porpoise,Single,174,Phocoena phocoena,Harbour porpoise,1995-09-04,Exact,57.15930939,-2.077659607,M,152,FALSE,advanced decomposition (code 4),necropsied,1995,Modern
+M2113/95,Cetacean,Harbour porpoise,Single,211,Phocoena phocoena,Harbour porpoise,1995-09-14,Exact,58.03081894,-5.507584572,U,NA,TRUE,freshly dead- died on beach (code 2a),not necropsied,1995,Modern
+M2581/95,Cetacean,Harbour porpoise,Single,258,Phocoena phocoena,Harbour porpoise,1995-09-16,Exact,58.21002197,-7.051948071,U,170,TRUE,advanced decomposition (code 4),not necropsied,1995,Modern
+M2000/95,Cetacean,Harbour porpoise,Single,200,Phocoena phocoena,Harbour porpoise,1995-10-04,Exact,57.7385025,-3.923197508,M,138,FALSE,freshly dead- died on beach (code 2a),necropsied,1995,Modern
+M2016/95,Cetacean,Harbour porpoise,Single,201,Phocoena phocoena,Harbour porpoise,1995-10-06,Exact,57.75304031,-3.912198305,F,104,FALSE,freshly dead- died on beach (code 2a),necropsied,1995,Modern
+M2583/95,Cetacean,Harbour porpoise,Single,258,Phocoena phocoena,Harbour porpoise,1995-10-14,Exact,57.52207947,-7.668395996,U,NA,TRUE,unknown,not necropsied,1995,Modern
+M2283/95,Cetacean,Harbour porpoise,Single,228,Phocoena phocoena,Harbour porpoise,1995-10-28,Exact,57.35413742,-7.402990341,U,150,TRUE,indeterminate (code 5),sampled,1995,Modern
+M2582/95,Cetacean,Harbour porpoise,Single,258,Phocoena phocoena,Harbour porpoise,1995-10-31,Exact,57.80866623,-7.098398209,U,80,TRUE,advanced decomposition (code 4),not necropsied,1995,Modern
+M2335/95,Cetacean,Harbour porpoise,Single,233,Phocoena phocoena,Harbour porpoise,1995-11-17,Exact,58.8013649,-3.166418314,M,152,FALSE,freshly dead- died on beach (code 2a),necropsied,1995,Modern
+M2461/95,Cetacean,Harbour porpoise,Single,246,Phocoena phocoena,Harbour porpoise,1995-12-06,Exact,58.02455139,-3.838617325,F,131,FALSE,advanced decomposition (code 4),necropsied,1995,Modern
+M2516/95,Cetacean,Harbour porpoise,Single,251,Phocoena phocoena,Harbour porpoise,1995-12-18,Exact,57.20602798,-2.062862396,M,153,FALSE,freshly dead- died on beach (code 2a),necropsied,1995,Modern
+M2580/95,Cetacean,Harbour porpoise,Single,258,Phocoena phocoena,Harbour porpoise,1995-12-20,Exact,56.84282303,-2.273716688,U,NA,TRUE,advanced decomposition (code 4),not necropsied,1995,Modern
+M2578/95,Cetacean,Harbour porpoise,Single,257,Phocoena phocoena,Harbour porpoise,1995-12-21,Exact,56.00781631,-3.392028809,M,102,FALSE,moderate decomposition (code 3),necropsied,1995,Modern
+M2548/95,Cetacean,Harbour porpoise,Single,254,Phocoena phocoena,Harbour porpoise,1995-12-22,Exact,57.60085297,-4.10336256,F,139,FALSE,freshly dead- died on beach (code 2a),necropsied,1995,Modern
+M2566/95,Cetacean,Harbour porpoise,Single,256,Phocoena phocoena,Harbour porpoise,1995-12-25,Exact,57.75396347,-3.910571098,U,150,TRUE,advanced decomposition (code 4),not necropsied,1995,Modern
+M62/96,Cetacean,Harbour porpoise,Single,6,Phocoena phocoena,Harbour porpoise,1996-01-03,Exact,56.03873444,-2.858645439,U,100,TRUE,advanced decomposition (code 4),not necropsied,1996,Modern
+M10/96,Cetacean,Harbour porpoise,Single,1,Phocoena phocoena,Harbour porpoise,1996-01-04,Exact,57.15661621,-2.077660322,F,130,FALSE,advanced decomposition (code 4),necropsied,1996,Modern
+M37/96,Cetacean,Harbour porpoise,Single,3,Phocoena phocoena,Harbour porpoise,1996-01-09,Exact,57.17189407,-2.076037169,U,130,TRUE,advanced decomposition (code 4),sampled,1996,Modern
+M63/96,Cetacean,Harbour porpoise,Single,6,Phocoena phocoena,Harbour porpoise,1996-01-10,Exact,57.56886673,-7.453290939,M,106,TRUE,advanced decomposition (code 4),sampled,1996,Modern
+M82/96,Cetacean,Harbour porpoise,Single,8,Phocoena phocoena,Harbour porpoise,1996-01-15,Exact,56.73815536,-2.434789181,U,140,TRUE,freshly dead- died on beach (code 2a),not necropsied,1996,Modern
+M83/96,Cetacean,Harbour porpoise,Single,8,Phocoena phocoena,Harbour porpoise,1996-01-15,Exact,56.72166443,-2.516302824,U,120,TRUE,indeterminate (code 5),not necropsied,1996,Modern
+M75/96,Cetacean,Harbour porpoise,Single,7,Phocoena phocoena,Harbour porpoise,1996-01-16,Exact,56.20286179,-2.768814802,M,150,FALSE,advanced decomposition (code 4),necropsied,1996,Modern
+M146/96,Cetacean,Harbour porpoise,Single,14,Phocoena phocoena,Harbour porpoise,1996-01-28,Exact,57.168293,-2.077683926,M,109,FALSE,freshly dead- died on beach (code 2a),necropsied,1996,Modern
+M225/96,Cetacean,Harbour porpoise,Single,22,Phocoena phocoena,Harbour porpoise,1996-02-12,Exact,60.22547913,-1.314017415,F,110,FALSE,freshly dead- died on beach (code 2a),necropsied,1996,Modern
+M271/96,Cetacean,Harbour porpoise,Single,27,Phocoena phocoena,Harbour porpoise,1996-02-19,Exact,57.13866425,-2.046227932,U,80,TRUE,freshly dead- died on beach (code 2a),not necropsied,1996,Modern
+M284/96,Cetacean,Harbour porpoise,Single,28,Phocoena phocoena,Harbour porpoise,1996-02-22,Exact,58.90686417,-3.310605764,M,157,TRUE,advanced decomposition (code 4),sampled,1996,Modern
+M274/96,Cetacean,Harbour porpoise,Single,27,Phocoena phocoena,Harbour porpoise,1996-02-22,Exact,57.66447067,-3.029117584,U,100,TRUE,alive- refloated (code 1),not necropsied,1996,Modern
+M1298/96,Cetacean,Harbour porpoise,Single,129,Phocoena phocoena,Harbour porpoise,1996-03-01,Exact,56.10596085,-3.794349194,M,120,TRUE,freshly dead- died on beach (code 2a),not necropsied,1996,Modern
+M359/96,Cetacean,Harbour porpoise,Single,35,Phocoena phocoena,Harbour porpoise,1996-03-01,Exact,56.19494247,-2.878250599,F,150,TRUE,advanced decomposition (code 4),not necropsied,1996,Modern
+M381/96,Cetacean,Harbour porpoise,Single,38,Phocoena phocoena,Harbour porpoise,1996-03-09,Exact,54.91013336,-5.004554272,U,100,TRUE,freshly dead- died on beach (code 2a),not necropsied,1996,Modern
+M398/96,Cetacean,Harbour porpoise,Single,39,Phocoena phocoena,Harbour porpoise,1996-03-14,Exact,57.82071304,-3.831590891,M,133,FALSE,Slight decomposition (code 2b),necropsied,1996,Modern
+M400/96,Cetacean,Harbour porpoise,Single,40,Phocoena phocoena,Harbour porpoise,1996-03-15,Exact,57.72756958,-3.93269825,F,119,FALSE,freshly dead- died on beach (code 2a),necropsied,1996,Modern
+M432/96,Cetacean,Harbour porpoise,Single,43,Phocoena phocoena,Harbour porpoise,1996-03-19,Exact,57.96208954,-3.989252329,U,140,TRUE,advanced decomposition (code 4),not necropsied,1996,Modern
+M440/96,Cetacean,Harbour porpoise,Single,44,Phocoena phocoena,Harbour porpoise,1996-03-20,Exact,57.68135834,-3.497514248,F,129,FALSE,advanced decomposition (code 4),necropsied,1996,Modern
+M444/96,Cetacean,Harbour porpoise,Single,44,Phocoena phocoena,Harbour porpoise,1996-03-20,Exact,57.7622757,-3.895885944,M,107,FALSE,Slight decomposition (code 2b),necropsied,1996,Modern
+M463/96,Cetacean,Harbour porpoise,Single,46,Phocoena phocoena,Harbour porpoise,1996-03-22,Exact,57.16559982,-2.077684879,M,125,FALSE,Slight decomposition (code 2b),necropsied,1996,Modern
+M573/96,Cetacean,Harbour porpoise,Single,57,Phocoena phocoena,Harbour porpoise,1996-03-31,Exact,57.21232605,-2.059568405,U,150,TRUE,advanced decomposition (code 4),not necropsied,1996,Modern
+M515/96,Cetacean,Harbour porpoise,Single,51,Phocoena phocoena,Harbour porpoise,1996-03-31,Exact,57.72197342,-3.319527626,F,126,FALSE,freshly dead- died on beach (code 2a),necropsied,1996,Modern
+M529/96,Cetacean,Harbour porpoise,Single,52,Phocoena phocoena,Harbour porpoise,1996-04-01,Exact,60.22369385,-1.315845966,M,140,TRUE,advanced decomposition (code 4),sampled,1996,Modern
+M600/96,Cetacean,Harbour porpoise,Single,60,Phocoena phocoena,Harbour porpoise,1996-04-01,Exact,57.36898804,-7.413516521,M,139,TRUE,freshly dead- died on beach (code 2a),sampled,1996,Modern
+M669/96,Cetacean,Harbour porpoise,Single,66,Phocoena phocoena,Harbour porpoise,1996-04-10,Exact,60.7028389,-0.869695961,U,117,TRUE,advanced decomposition (code 4),not necropsied,1996,Modern
+M619/96,Cetacean,Harbour porpoise,Single,61,Phocoena phocoena,Harbour porpoise,1996-04-12,Exact,57.26533508,-2.026492596,M,114,FALSE,Slight decomposition (code 2b),necropsied,1996,Modern
+M748/96,Cetacean,Harbour porpoise,Single,74,Phocoena phocoena,Harbour porpoise,1996-04-25,Exact,58.59380722,-3.071759939,U,120,TRUE,advanced decomposition (code 4),not necropsied,1996,Modern
+M738/96,Cetacean,Harbour porpoise,Single,73,Phocoena phocoena,Harbour porpoise,1996-04-29,Exact,55.91933823,-4.946127415,U,110,TRUE,advanced decomposition (code 4),not necropsied,1996,Modern
+M760/96,Cetacean,Harbour porpoise,Single,76,Phocoena phocoena,Harbour porpoise,1996-05-02,Exact,57.72332001,-3.361563444,M,119,FALSE,advanced decomposition (code 4),necropsied,1996,Modern
+M770/96,Cetacean,Harbour porpoise,Single,77,Phocoena phocoena,Harbour porpoise,1996-05-03,Exact,57.24556351,-2.041389942,F,118,FALSE,freshly dead- died on beach (code 2a),necropsied,1996,Modern
+M772/96,Cetacean,Harbour porpoise,Single,77,Phocoena phocoena,Harbour porpoise,1996-05-03,Exact,57.70987701,-3.439933538,M,145,FALSE,advanced decomposition (code 4),necropsied,1996,Modern
+M775/96,Cetacean,Harbour porpoise,Single,77,Phocoena phocoena,Harbour porpoise,1996-05-06,Exact,57.69322968,-4.003004551,M,110,FALSE,Slight decomposition (code 2b),necropsied,1996,Modern
+M788/96,Cetacean,Harbour porpoise,Single,78,Phocoena phocoena,Harbour porpoise,1996-05-07,Exact,57.72464752,-3.321300983,M,123,FALSE,advanced decomposition (code 4),necropsied,1996,Modern
+M787/96,Cetacean,Harbour porpoise,Single,78,Phocoena phocoena,Harbour porpoise,1996-05-07,Exact,57.25095367,-2.038078785,M,109,FALSE,Slight decomposition (code 2b),necropsied,1996,Modern
+M826/96,Cetacean,Harbour porpoise,Single,82,Phocoena phocoena,Harbour porpoise,1996-05-14,Exact,57.68769073,-2.930818796,U,100,TRUE,advanced decomposition (code 4),not necropsied,1996,Modern
+M1315/96,Cetacean,Harbour porpoise,Single,131,Phocoena phocoena,Harbour porpoise,1996-05-14,Exact,56.52245331,-6.953262806,U,120,TRUE,unknown,not necropsied,1996,Modern
+M846/96,Cetacean,Harbour porpoise,Single,84,Phocoena phocoena,Harbour porpoise,1996-05-16,Exact,57.66640854,-3.01240921,M,149,FALSE,Slight decomposition (code 2b),necropsied,1996,Modern
+M866/96,Cetacean,Harbour porpoise,Single,86,Phocoena phocoena,Harbour porpoise,1996-05-21,Exact,57.25095367,-2.038078785,M,122,FALSE,freshly dead- died on beach (code 2a),necropsied,1996,Modern
+M897/96,Cetacean,Harbour porpoise,Single,89,Phocoena phocoena,Harbour porpoise,1996-05-22,Exact,57.69201279,-4.023084641,U,NA,TRUE,unknown,not necropsied,1996,Modern
+M886/96,Cetacean,Harbour porpoise,Single,88,Phocoena phocoena,Harbour porpoise,1996-05-23,Exact,57.20243835,-2.062853813,M,114,FALSE,freshly dead- died on beach (code 2a),necropsied,1996,Modern
+M2370/96,Cetacean,Harbour porpoise,Single,237,Phocoena phocoena,Harbour porpoise,1996-06-01,Exact,58.9138298,-2.783013344,U,100,TRUE,unknown,not necropsied,1996,Modern
+M973/96,Cetacean,Harbour porpoise,Single,97,Phocoena phocoena,Harbour porpoise,1996-06-01,Exact,57.47761536,-7.37782383,F,120,TRUE,advanced decomposition (code 4),sampled,1996,Modern
+M2516/96,Cetacean,Harbour porpoise,Single,251,Phocoena phocoena,Harbour porpoise,1996-06-01,Exact,60.22742462,-1.563086629,U,138,TRUE,unknown,sampled,1996,Modern
+M974/96,Cetacean,Harbour porpoise,Single,97,Phocoena phocoena,Harbour porpoise,1996-06-03,Exact,57.37331772,-7.417485237,M,145,TRUE,advanced decomposition (code 4),sampled,1996,Modern
+M1251/96,Cetacean,Harbour porpoise,Single,125,Phocoena phocoena,Harbour porpoise,1996-06-12,Exact,60.35507584,-0.946994662,M,80,TRUE,advanced decomposition (code 4),sampled,1996,Modern
+M1020/96,Cetacean,Harbour porpoise,Single,102,Phocoena phocoena,Harbour porpoise,1996-06-13,Exact,56.2016983,-4.746848583,F,106,FALSE,freshly dead- died on beach (code 2a),necropsied,1996,Modern
+M1031/96,Cetacean,Harbour porpoise,Single,103,Phocoena phocoena,Harbour porpoise,1996-06-17,Exact,57.93652344,-5.197556496,F,78,FALSE,freshly dead- died on beach (code 2a),necropsied,1996,Modern
+M1046/96,Cetacean,Harbour porpoise,Single,104,Phocoena phocoena,Harbour porpoise,1996-06-23,Exact,57.67108536,-2.543129921,F,137,FALSE,advanced decomposition (code 4),necropsied,1996,Modern
+M1105/96,Cetacean,Harbour porpoise,Single,110,Phocoena phocoena,Harbour porpoise,1996-06-27,Exact,57.57129669,-4.043123245,F,75,FALSE,freshly dead- died on beach (code 2a),necropsied,1996,Modern
+M1152/96,Cetacean,Harbour porpoise,Single,115,Phocoena phocoena,Harbour porpoise,1996-07-05,Exact,57.5826416,-4.063838959,M,88,FALSE,freshly dead- died on beach (code 2a),necropsied,1996,Modern
+M1248/96,Cetacean,Harbour porpoise,Single,124,Phocoena phocoena,Harbour porpoise,1996-07-12,Exact,57.45059586,-6.752943516,U,160,TRUE,freshly dead- died on beach (code 2a),not necropsied,1996,Modern
+M1249/96,Cetacean,Harbour porpoise,Single,124,Phocoena phocoena,Harbour porpoise,1996-07-14,Exact,56.93058395,-5.868948936,U,80,TRUE,alive- refloated (code 1),not necropsied,1996,Modern
+M1276/96,Cetacean,Harbour porpoise,Single,127,Phocoena phocoena,Harbour porpoise,1996-07-20,Exact,57.26314163,-7.426177502,U,83,TRUE,advanced decomposition (code 4),sampled,1996,Modern
+M1343/96,Cetacean,Harbour porpoise,Single,134,Phocoena phocoena,Harbour porpoise,1996-08-01,Exact,54.86389923,-3.796415567,M,81,FALSE,Slight decomposition (code 2b),necropsied,1996,Modern
+M1688/96,Cetacean,Harbour porpoise,Single,168,Phocoena phocoena,Harbour porpoise,1996-08-30,Exact,57.30562973,-7.400846481,M,107,TRUE,advanced decomposition (code 4),sampled,1996,Modern
+M1670/96,Cetacean,Harbour porpoise,Single,167,Phocoena phocoena,Harbour porpoise,1996-09-01,Exact,57.4613533,-7.400475502,F,160,TRUE,advanced decomposition (code 4),sampled,1996,Modern
+M1690/96,Cetacean,Harbour porpoise,Single,169,Phocoena phocoena,Harbour porpoise,1996-09-03,Exact,57.43816757,-7.395380974,M,157,TRUE,advanced decomposition (code 4),sampled,1996,Modern
+M1611/96,Cetacean,Harbour porpoise,Single,161,Phocoena phocoena,Harbour porpoise,1996-09-05,Exact,56.33843994,-2.782870054,M,142,FALSE,freshly dead- died on beach (code 2a),necropsied,1996,Modern
+M1676/96,Cetacean,Harbour porpoise,Single,167,Phocoena phocoena,Harbour porpoise,1996-09-13,Exact,57.68355942,-2.739533424,M,148,FALSE,freshly dead- died on beach (code 2a),necropsied,1996,Modern
+M1700/96,Cetacean,Harbour porpoise,Single,170,Phocoena phocoena,Harbour porpoise,1996-09-17,Exact,59.20446777,-2.684599638,U,NA,TRUE,advanced decomposition (code 4),sampled,1996,Modern
+M1801/96,Cetacean,Harbour porpoise,Single,180,Phocoena phocoena,Harbour porpoise,1996-09-20,Exact,57.39505768,-7.372361183,F,165,TRUE,advanced decomposition (code 4),sampled,1996,Modern
+M1766/96,Cetacean,Harbour porpoise,Single,176,Phocoena phocoena,Harbour porpoise,1996-09-21,Exact,56.77329636,-2.402463198,U,100,TRUE,advanced decomposition (code 4),not necropsied,1996,Modern
+M1764/96,Cetacean,Harbour porpoise,Single,176,Phocoena phocoena,Harbour porpoise,1996-09-22,Exact,57.89075089,-4.012298584,M,106,FALSE,advanced decomposition (code 4),necropsied,1996,Modern
+M1824/96,Cetacean,Harbour porpoise,Single,182,Phocoena phocoena,Harbour porpoise,1996-09-25,Exact,58.52055359,-3.129612923,U,170,TRUE,Slight decomposition (code 2b),not necropsied,1996,Modern
+M1873/96,Cetacean,Harbour porpoise,Single,187,Phocoena phocoena,Harbour porpoise,1996-10-04,Exact,56.02865601,-3.376725435,U,120,TRUE,advanced decomposition (code 4),not necropsied,1996,Modern
+M1907/96,Cetacean,Harbour porpoise,Single,190,Phocoena phocoena,Harbour porpoise,1996-10-07,Exact,56.701931,-5.214565754,U,100,TRUE,advanced decomposition (code 4),not necropsied,1996,Modern
+M1932/96,Cetacean,Harbour porpoise,Single,193,Phocoena phocoena,Harbour porpoise,1996-10-13,Exact,56.04930115,-3.295578718,F,142,FALSE,freshly dead- died on beach (code 2a),necropsied,1996,Modern
+M1933/96,Cetacean,Harbour porpoise,Single,193,Phocoena phocoena,Harbour porpoise,1996-10-13,Exact,60.49753571,-1.157176256,M,141,FALSE,freshly dead- died on beach (code 2a),necropsied,1996,Modern
+M2042/96,Cetacean,Harbour porpoise,Single,204,Phocoena phocoena,Harbour porpoise,1996-10-25,Exact,57.57844543,-4.100402355,U,NA,TRUE,unknown,not necropsied,1996,Modern
+M2138/96,Cetacean,Harbour porpoise,Single,213,Phocoena phocoena,Harbour porpoise,1996-11-06,Exact,59.29387665,-2.581056595,M,153,TRUE,Slight decomposition (code 2b),sampled,1996,Modern
+M2137/96,Cetacean,Harbour porpoise,Single,213,Phocoena phocoena,Harbour porpoise,1996-11-07,Exact,57.66448593,-3.02745533,F,118,FALSE,advanced decomposition (code 4),necropsied,1996,Modern
+M2199/96,Cetacean,Harbour porpoise,Single,219,Phocoena phocoena,Harbour porpoise,1996-11-17,Exact,57.66252136,-3.568811893,M,132,FALSE,freshly dead- died on beach (code 2a),necropsied,1996,Modern
+M2261/96,Cetacean,Harbour porpoise,Single,226,Phocoena phocoena,Harbour porpoise,1996-11-27,Exact,57.17009354,-2.077688932,M,148,FALSE,moderate decomposition (code 3),necropsied,1996,Modern
+M2367/96,Cetacean,Harbour porpoise,Single,236,Phocoena phocoena,Harbour porpoise,1996-12-06,Exact,56.02334213,-2.87594676,U,120,TRUE,advanced decomposition (code 4),not necropsied,1996,Modern
+M2439/96,Cetacean,Harbour porpoise,Single,243,Phocoena phocoena,Harbour porpoise,1996-12-17,Exact,55.55916595,-4.657398224,U,110,TRUE,unknown,not necropsied,1996,Modern
+M2445/96,Cetacean,Harbour porpoise,Single,244,Phocoena phocoena,Harbour porpoise,1996-12-19,Exact,56.00783539,-3.390422106,M,144,FALSE,moderate decomposition (code 3),necropsied,1996,Modern
+M2474/96,Cetacean,Harbour porpoise,Single,247,Phocoena phocoena,Harbour porpoise,1996-12-22,Exact,57.24017334,-2.044700384,M,146,FALSE,advanced decomposition (code 4),necropsied,1996,Modern
+M31/97,Cetacean,Harbour porpoise,Single,3,Phocoena phocoena,Harbour porpoise,1997-01-05,Exact,57.30845261,-1.993324518,U,NA,TRUE,Slight decomposition (code 2b),not necropsied,1997,Modern
+M32/97,Cetacean,Harbour porpoise,Single,3,Phocoena phocoena,Harbour porpoise,1997-01-08,Exact,57.17728424,-2.077708483,F,104,FALSE,moderate decomposition (code 3),necropsied,1997,Modern
+M2957/97,Cetacean,Harbour porpoise,Single,295,Phocoena phocoena,Harbour porpoise,1997-01-14,Exact,58.34438324,-6.643199444,M,110,TRUE,unknown,not necropsied,1997,Modern
+M106/97,Cetacean,Harbour porpoise,Single,106,Phocoena phocoena,Harbour porpoise,1997-01-16,Exact,55.63604736,-4.797682285,M,157,FALSE,freshly dead- died on beach (code 2a),necropsied,1997,Modern
+M206/97,Cetacean,Harbour porpoise,Single,20,Phocoena phocoena,Harbour porpoise,1997-01-16,Exact,59.2809906,-2.428152561,F,165,TRUE,Slight decomposition (code 2b),sampled,1997,Modern
+M372/97,Cetacean,Harbour porpoise,Single,37,Phocoena phocoena,Harbour porpoise,1997-02-18,Exact,56.02956772,-3.375158548,F,130,FALSE,freshly dead- died on beach (code 2a),necropsied,1997,Modern
+M407/97,Cetacean,Harbour porpoise,Single,40,Phocoena phocoena,Harbour porpoise,1997-02-19,Exact,58.1018219,-5.271762371,M,93,FALSE,Slight decomposition (code 2b),necropsied,1997,Modern
+M2960/97,Cetacean,Harbour porpoise,Single,296,Phocoena phocoena,Harbour porpoise,1997-02-21,Exact,59.24630356,-2.752044678,M,NA,TRUE,unknown,not necropsied,1997,Modern
+M414/97,Cetacean,Harbour porpoise,Single,41,Phocoena phocoena,Harbour porpoise,1997-02-22,Exact,57.60297394,-1.834313154,F,117,FALSE,Slight decomposition (code 2b),necropsied,1997,Modern
+M627/97,Cetacean,Harbour porpoise,Single,62,Phocoena phocoena,Harbour porpoise,1997-03-08,Exact,56.18881607,-2.855543137,U,122,TRUE,advanced decomposition (code 4),not necropsied,1997,Modern
+M540/97,Cetacean,Harbour porpoise,Single,54,Phocoena phocoena,Harbour porpoise,1997-03-11,Exact,60.17250824,-1.315112829,M,170,FALSE,moderate decomposition (code 3),necropsied,1997,Modern
+M622/97,Cetacean,Harbour porpoise,Single,62,Phocoena phocoena,Harbour porpoise,1997-03-18,Exact,60.35018921,-2.543308735,F,152,FALSE,moderate-advanced decomposition (code 3-4),necropsied,1997,Modern
+M682/97,Cetacean,Harbour porpoise,Single,68,Phocoena phocoena,Harbour porpoise,1997-03-24,Exact,56.05965042,-3.250960112,M,115,FALSE,advanced decomposition (code 4),necropsied,1997,Modern
+M677/97,Cetacean,Harbour porpoise,Single,67,Phocoena phocoena,Harbour porpoise,1997-03-28,Exact,57.70472336,-3.49679327,F,93,FALSE,Slight decomposition (code 2b),necropsied,1997,Modern
+M684/97,Cetacean,Harbour porpoise,Single,68,Phocoena phocoena,Harbour porpoise,1997-03-31,Exact,58.59817123,-3.369584799,M,122,FALSE,advanced decomposition (code 4),necropsied,1997,Modern
+M714/97,Cetacean,Harbour porpoise,Single,71,Phocoena phocoena,Harbour porpoise,1997-04-03,Exact,60.49102783,-1.459457159,M,123,FALSE,Slight decomposition (code 2b),necropsied,1997,Modern
+M866/97,Cetacean,Harbour porpoise,Single,86,Phocoena phocoena,Harbour porpoise,1997-04-03,Exact,57.65115738,-5.797854424,U,110,TRUE,advanced decomposition (code 4),not necropsied,1997,Modern
+M742/97,Cetacean,Harbour porpoise,Single,74,Phocoena phocoena,Harbour porpoise,1997-04-05,Exact,55.74880981,-4.858342171,F,105,FALSE,moderate decomposition (code 3),necropsied,1997,Modern
+M741/97,Cetacean,Harbour porpoise,Single,74,Phocoena phocoena,Harbour porpoise,1997-04-05,Exact,57.59532547,-4.111414433,F,114,FALSE,freshly dead- died on beach (code 2a),necropsied,1997,Modern
+M776/97,Cetacean,Harbour porpoise,Single,77,Phocoena phocoena,Harbour porpoise,1997-04-07,Exact,57.28399277,-7.42260313,M,114,TRUE,advanced decomposition (code 4),sampled,1997,Modern
+M757/97,Cetacean,Harbour porpoise,Single,75,Phocoena phocoena,Harbour porpoise,1997-04-08,Exact,56.00066376,-3.388566017,M,112,FALSE,Slight decomposition (code 2b),necropsied,1997,Modern
+M756/97,Cetacean,Harbour porpoise,Single,75,Phocoena phocoena,Harbour porpoise,1997-04-08,Exact,56.06376266,-3.198095083,F,134,FALSE,advanced decomposition (code 4),necropsied,1997,Modern
+M1085/97,Cetacean,Harbour porpoise,Single,108,Phocoena phocoena,Harbour porpoise,1997-04-09,Exact,55.75251389,-5.384665966,U,NA,TRUE,moderate decomposition (code 3),not necropsied,1997,Modern
+M802/97,Cetacean,Harbour porpoise,Single,80,Phocoena phocoena,Harbour porpoise,1997-04-11,Exact,57.00866318,-5.832431316,M,107,FALSE,Slight decomposition (code 2b),necropsied,1997,Modern
+M881/97,Cetacean,Harbour porpoise,Single,88,Phocoena phocoena,Harbour porpoise,1997-04-12,Exact,57.1151886,-7.39287138,U,115,TRUE,advanced decomposition (code 4),sampled,1997,Modern
+M869/97,Cetacean,Harbour porpoise,Single,86,Phocoena phocoena,Harbour porpoise,1997-04-16,Exact,57.58675385,-3.916843653,U,140,TRUE,advanced decomposition (code 4),not necropsied,1997,Modern
+M836/97,Cetacean,Harbour porpoise,Single,83,Phocoena phocoena,Harbour porpoise,1997-04-16,Exact,56.7165451,-2.44598031,F,115,FALSE,advanced decomposition (code 4),necropsied,1997,Modern
+M843/97,Cetacean,Harbour porpoise,Single,84,Phocoena phocoena,Harbour porpoise,1997-04-17,Exact,56.16666794,-3.048294544,F,127,FALSE,advanced decomposition (code 4),necropsied,1997,Modern
+M990/97,Cetacean,Harbour porpoise,Single,99,Phocoena phocoena,Harbour porpoise,1997-05-05,Exact,56.00875092,-3.388856411,M,108,FALSE,moderate decomposition (code 3),necropsied,1997,Modern
+M1028/97,Cetacean,Harbour porpoise,Single,102,Phocoena phocoena,Harbour porpoise,1997-05-09,Exact,57.66997528,-2.348642826,F,126,FALSE,moderate decomposition (code 3),necropsied,1997,Modern
+M1109/97,Cetacean,Harbour porpoise,Single,110,Phocoena phocoena,Harbour porpoise,1997-05-11,Exact,57.58914185,-7.525049686,U,153,TRUE,advanced decomposition (code 4),sampled,1997,Modern
+M1217/97,Cetacean,Harbour porpoise,Single,121,Phocoena phocoena,Harbour porpoise,1997-05-31,Exact,57.68650055,-2.697659492,M,154,FALSE,advanced decomposition (code 4),necropsied,1997,Modern
+M1248/97,Cetacean,Harbour porpoise,Single,124,Phocoena phocoena,Harbour porpoise,1997-06-04,Exact,57.87995148,-4.013381004,F,71,FALSE,Slight decomposition (code 2b),necropsied,1997,Modern
+M1507/97,Cetacean,Harbour porpoise,Single,150,Phocoena phocoena,Harbour porpoise,1997-06-14,Exact,59.95478821,-1.177196264,F,171,FALSE,Slight decomposition (code 2b),necropsied,1997,Modern
+M1828/97,Cetacean,Harbour porpoise,Single,182,Phocoena phocoena,Harbour porpoise,1997-06-15,Exact,59.03615952,-2.574948549,U,70,TRUE,unknown,not necropsied,1997,Modern
+M1345/97,Cetacean,Harbour porpoise,Single,134,Phocoena phocoena,Harbour porpoise,1997-06-17,Exact,57.17098999,-2.077682972,M,115,FALSE,Slight decomposition (code 2b),necropsied,1997,Modern
+M1381/97,Cetacean,Harbour porpoise,Single,138,Phocoena phocoena,Harbour porpoise,1997-06-18,Exact,58.20584106,-6.308377743,U,150,TRUE,unknown,not necropsied,1997,Modern
+M1513/97,Cetacean,Harbour porpoise,Single,151,Phocoena phocoena,Harbour porpoise,1997-06-21,Exact,58.01326752,-6.493605614,U,NA,TRUE,advanced decomposition (code 4),sampled,1997,Modern
+M1376/97,Cetacean,Harbour porpoise,Single,137,Phocoena phocoena,Harbour porpoise,1997-06-21,Exact,57.26174164,-2.026487589,U,NA,TRUE,advanced decomposition (code 4),sampled,1997,Modern
+M1377/97,Cetacean,Harbour porpoise,Single,137,Phocoena phocoena,Harbour porpoise,1997-06-21,Exact,57.75298691,-3.915566444,F,160,FALSE,freshly dead- died on beach (code 2a),necropsied,1997,Modern
+M1382/97,Cetacean,Harbour porpoise,Single,138,Phocoena phocoena,Harbour porpoise,1997-06-23,Exact,57.2761116,-2.018199205,U,NA,TRUE,advanced decomposition (code 4),not necropsied,1997,Modern
+M1452/97,Cetacean,Harbour porpoise,Single,145,Phocoena phocoena,Harbour porpoise,1997-06-25,Exact,57.75190353,-7.141910553,M,152,FALSE,freshly dead- died on beach (code 2a),necropsied,1997,Modern
+M1436/97,Cetacean,Harbour porpoise,Single,143,Phocoena phocoena,Harbour porpoise,1997-06-26,Exact,57.14942932,-2.075985193,U,NA,TRUE,advanced decomposition (code 4),not necropsied,1997,Modern
+M1509/97,Cetacean,Harbour porpoise,Single,150,Phocoena phocoena,Harbour porpoise,1997-06-27,Exact,60.14115524,-1.171725631,F,163,TRUE,advanced decomposition (code 4),sampled,1997,Modern
+M1552/97,Cetacean,Harbour porpoise,Single,155,Phocoena phocoena,Harbour porpoise,1997-06-29,Exact,60.13471603,-1.301496029,U,165,TRUE,advanced decomposition (code 4),sampled,1997,Modern
+M1604/97,Cetacean,Harbour porpoise,Single,160,Phocoena phocoena,Harbour porpoise,1997-07-11,Exact,56.35985184,-2.805965662,U,76,TRUE,advanced decomposition (code 4),not necropsied,1997,Modern
+M1648/97,Cetacean,Harbour porpoise,Single,164,Phocoena phocoena,Harbour porpoise,1997-07-18,Exact,56.63010025,-2.498747587,U,NA,TRUE,unknown,not necropsied,1997,Modern
+M1675/97,Cetacean,Harbour porpoise,Single,167,Phocoena phocoena,Harbour porpoise,1997-07-22,Exact,56.20599365,-2.711907387,M,150,FALSE,freshly dead- died on beach (code 2a),necropsied,1997,Modern
+M1962/97,Cetacean,Harbour porpoise,Single,196,Phocoena phocoena,Harbour porpoise,1997-07-23,Exact,60.84958267,2.580974817,F,140,TRUE,freshly dead- died on beach (code 2a),not necropsied,1997,Modern
+M1694/97,Cetacean,Harbour porpoise,Single,169,Phocoena phocoena,Harbour porpoise,1997-07-24,Exact,57.03463364,-7.452395916,F,161,FALSE,freshly dead- died on beach (code 2a),necropsied,1997,Modern
+M1963/97,Cetacean,Harbour porpoise,Single,196,Phocoena phocoena,Harbour porpoise,1997-07-27,Exact,60.69960022,2.580980778,F,135,TRUE,freshly dead- died on beach (code 2a),not necropsied,1997,Modern
+M1904/97,Cetacean,Harbour porpoise,Single,190,Phocoena phocoena,Harbour porpoise,1997-08-20,Exact,58.21857834,-5.888743401,F,143,FALSE,freshly dead- died on beach (code 2a),necropsied,1997,Modern
+M1915/97,Cetacean,Harbour porpoise,Single,191,Phocoena phocoena,Harbour porpoise,1997-08-21,Exact,58.04164124,-6.130432129,M,121,FALSE,freshly dead- died on beach (code 2a),necropsied,1997,Modern
+M1945/97,Cetacean,Harbour porpoise,Single,194,Phocoena phocoena,Harbour porpoise,1997-08-26,Exact,58.85498428,-2.856212378,F,152,FALSE,freshly dead- died on beach (code 2a),necropsied,1997,Modern
+M2100/97,Cetacean,Harbour porpoise,Single,210,Phocoena phocoena,Harbour porpoise,1997-09-05,Exact,55.69654083,-4.90228796,U,180,TRUE,advanced decomposition (code 4),not necropsied,1997,Modern
+M2118/97,Cetacean,Harbour porpoise,Single,211,Phocoena phocoena,Harbour porpoise,1997-09-13,Exact,57.67992401,-2.325266123,M,119,FALSE,Slight decomposition (code 2b),necropsied,1997,Modern
+M2152/97,Cetacean,Harbour porpoise,Single,215,Phocoena phocoena,Harbour porpoise,1997-09-13,Exact,58.60805511,-3.672925711,F,151,FALSE,advanced decomposition (code 4),necropsied,1997,Modern
+M2309/97,Cetacean,Harbour porpoise,Single,230,Phocoena phocoena,Harbour porpoise,1997-09-18,Exact,58.06630707,-5.35841608,U,140,TRUE,advanced decomposition (code 4),not necropsied,1997,Modern
+M2372/97,Cetacean,Harbour porpoise,Single,237,Phocoena phocoena,Harbour porpoise,1997-10-14,Exact,56.29418564,-5.653940678,U,NA,TRUE,alive- refloated (code 1),not necropsied,1997,Modern
+M2472/97,Cetacean,Harbour porpoise,Single,247,Phocoena phocoena,Harbour porpoise,1997-10-23,Exact,57.616745,-1.383304477,M,137,FALSE,freshly dead- died on beach (code 2a),necropsied,1997,Modern
+M2730/97,Cetacean,Harbour porpoise,Single,273,Phocoena phocoena,Harbour porpoise,1997-11-28,Exact,56.59501648,-5.381479263,M,103,FALSE,freshly dead- died on beach (code 2a),necropsied,1997,Modern
+M2793/97,Cetacean,Harbour porpoise,Single,279,Phocoena phocoena,Harbour porpoise,1997-12-06,Exact,56.23578644,-2.667840958,M,116,FALSE,moderate decomposition (code 3),necropsied,1997,Modern
+M2962/97,Cetacean,Harbour porpoise,Single,296,Phocoena phocoena,Harbour porpoise,1997-12-06,Exact,59.38879013,-2.418946028,U,157,TRUE,unknown,not necropsied,1997,Modern
+M2790/97,Cetacean,Harbour porpoise,Single,279,Phocoena phocoena,Harbour porpoise,1997-12-07,Exact,56.49409103,-5.422855377,F,155,FALSE,freshly dead- died on beach (code 2a),necropsied,1997,Modern
+M59/98,Cetacean,Harbour porpoise,Single,5,Phocoena phocoena,Harbour porpoise,1998-01-06,Exact,60.20959473,-1.370279431,F,120,FALSE,Slight decomposition (code 2b),necropsied,1998,Modern
+M166/98,Cetacean,Harbour porpoise,Single,16,Phocoena phocoena,Harbour porpoise,1998-01-18,Exact,54.88823318,-5.158889771,U,137,TRUE,advanced decomposition (code 4),not necropsied,1998,Modern
+M112/98,Cetacean,Harbour porpoise,Single,11,Phocoena phocoena,Harbour porpoise,1998-01-20,Exact,55.99363708,-3.373878002,M,122,FALSE,freshly dead- died on beach (code 2a),necropsied,1998,Modern
+M169/98,Cetacean,Harbour porpoise,Single,16,Phocoena phocoena,Harbour porpoise,1998-01-26,Exact,60.19134903,-1.157829285,U,NA,TRUE,unknown,not necropsied,1998,Modern
+M168/98,Cetacean,Harbour porpoise,Single,16,Phocoena phocoena,Harbour porpoise,1998-01-26,Exact,57.68382645,-2.159277201,M,152,FALSE,Slight decomposition (code 2b),necropsied,1998,Modern
+M446/98,Cetacean,Harbour porpoise,Single,44,Phocoena phocoena,Harbour porpoise,1998-02-19,Exact,55.84552002,-5.132289886,U,100,TRUE,Slight decomposition (code 2b),not necropsied,1998,Modern
+M428/98,Cetacean,Harbour porpoise,Single,42,Phocoena phocoena,Harbour porpoise,1998-02-25,Exact,55.77891541,-5.099808216,M,143,FALSE,moderate decomposition (code 3),necropsied,1998,Modern
+M426/98,Cetacean,Harbour porpoise,Single,42,Phocoena phocoena,Harbour porpoise,1998-02-28,Exact,55.5304451,-4.655471802,F,161,FALSE,freshly dead- died on beach (code 2a),necropsied,1998,Modern
+M487/98,Cetacean,Harbour porpoise,Single,48,Phocoena phocoena,Harbour porpoise,1998-03-01,Exact,55.54832458,-4.659835339,M,136,FALSE,moderate decomposition (code 3),necropsied,1998,Modern
+M522/98,Cetacean,Harbour porpoise,Single,52,Phocoena phocoena,Harbour porpoise,1998-03-08,Exact,57.6867485,-2.937508583,F,152,FALSE,freshly dead- died on beach (code 2a),necropsied,1998,Modern
+M586/98,Cetacean,Harbour porpoise,Single,58,Phocoena phocoena,Harbour porpoise,1998-03-10,Exact,58.20156479,-6.381101131,F,160,TRUE,advanced decomposition (code 4),sampled,1998,Modern
+M564/98,Cetacean,Harbour porpoise,Single,56,Phocoena phocoena,Harbour porpoise,1998-03-13,Exact,56.00369263,-2.543567419,M,159,FALSE,freshly dead- died on beach (code 2a),necropsied,1998,Modern
+M588/98,Cetacean,Harbour porpoise,Single,58,Phocoena phocoena,Harbour porpoise,1998-03-17,Exact,58.61545944,-3.347876787,F,110,FALSE,Slight decomposition (code 2b),necropsied,1998,Modern
+M585/98,Cetacean,Harbour porpoise,Single,58,Phocoena phocoena,Harbour porpoise,1998-03-17,Exact,54.97856522,-3.56401372,M,116,FALSE,moderate decomposition (code 3),necropsied,1998,Modern
+M726/98,Cetacean,Harbour porpoise,Single,72,Phocoena phocoena,Harbour porpoise,1998-03-22,Exact,54.76553345,-4.998485088,U,120,TRUE,advanced decomposition (code 4),not necropsied,1998,Modern
+M641/98,Cetacean,Harbour porpoise,Single,64,Phocoena phocoena,Harbour porpoise,1998-03-23,Exact,60.93253708,-1.66786015,M,133,FALSE,Slight decomposition (code 2b),necropsied,1998,Modern
+M679/98,Cetacean,Harbour porpoise,Single,67,Phocoena phocoena,Harbour porpoise,1998-03-26,Exact,58.92372894,-1.134706736,M,147,FALSE,Slight decomposition (code 2b),necropsied,1998,Modern
+M714/98,Cetacean,Harbour porpoise,Single,71,Phocoena phocoena,Harbour porpoise,1998-03-29,Exact,55.99459076,-3.369100094,U,100,TRUE,advanced decomposition (code 4),not necropsied,1998,Modern
+M852/98,Cetacean,Harbour porpoise,Single,85,Phocoena phocoena,Harbour porpoise,1998-04-06,Exact,56.06441498,-2.780520678,U,130,TRUE,freshly dead- died on beach (code 2a),not necropsied,1998,Modern
+M853/98,Cetacean,Harbour porpoise,Single,85,Phocoena phocoena,Harbour porpoise,1998-04-06,Exact,56.06441498,-2.780520678,U,NA,TRUE,advanced decomposition (code 4),not necropsied,1998,Modern
+M851/98,Cetacean,Harbour porpoise,Single,85,Phocoena phocoena,Harbour porpoise,1998-04-06,Exact,57.70481873,-3.48840332,U,NA,TRUE,advanced decomposition (code 4),not necropsied,1998,Modern
+M854/98,Cetacean,Harbour porpoise,Single,85,Phocoena phocoena,Harbour porpoise,1998-04-14,Exact,58.85548401,-2.915168285,F,152,FALSE,Slight decomposition (code 2b),necropsied,1998,Modern
+M911/98,Cetacean,Harbour porpoise,Single,91,Phocoena phocoena,Harbour porpoise,1998-04-17,Exact,55.9719162,-5.448709488,U,NA,TRUE,advanced decomposition (code 4),not necropsied,1998,Modern
+M912/98,Cetacean,Harbour porpoise,Single,91,Phocoena phocoena,Harbour porpoise,1998-04-20,Exact,59.30301285,-2.546092987,U,150,TRUE,Slight decomposition (code 2b),not necropsied,1998,Modern
+M913/98,Cetacean,Harbour porpoise,Single,91,Phocoena phocoena,Harbour porpoise,1998-04-21,Exact,55.60642242,-5.13064909,M,117,TRUE,advanced decomposition (code 4),sampled,1998,Modern
+M910/98,Cetacean,Harbour porpoise,Single,91,Phocoena phocoena,Harbour porpoise,1998-04-22,Exact,56.01952744,-3.389238358,F,121,FALSE,Slight decomposition (code 2b),necropsied,1998,Modern
+M1022/98,Cetacean,Harbour porpoise,Single,102,Phocoena phocoena,Harbour porpoise,1998-04-26,Exact,58.87979126,-2.907132149,U,159,TRUE,advanced decomposition (code 4),not necropsied,1998,Modern
+M1044/98,Cetacean,Harbour porpoise,Single,104,Phocoena phocoena,Harbour porpoise,1998-05-02,Exact,57.58636093,-7.506178856,U,NA,TRUE,indeterminate (code 5),sampled,1998,Modern
+M2835/98,Cetacean,Harbour porpoise,Single,283,Phocoena phocoena,Harbour porpoise,1998-05-08,Exact,58.83761215,-2.902558327,U,NA,TRUE,alive- refloated (code 1),not necropsied,1998,Modern
+M1112/98,Cetacean,Harbour porpoise,Single,111,Phocoena phocoena,Harbour porpoise,1998-05-18,Exact,57.54958344,-4.107101917,U,100,TRUE,moderate decomposition (code 3),not necropsied,1998,Modern
+M1168/98,Cetacean,Harbour porpoise,Single,116,Phocoena phocoena,Harbour porpoise,1998-05-26,Exact,57.68082428,-2.325282812,F,164,FALSE,moderate decomposition (code 3),necropsied,1998,Modern
+M1201/98,Cetacean,Harbour porpoise,Single,120,Phocoena phocoena,Harbour porpoise,1998-05-27,Exact,57.67088699,-2.34530139,M,83,FALSE,Slight decomposition (code 2b),necropsied,1998,Modern
+M1202/98,Cetacean,Harbour porpoise,Single,120,Phocoena phocoena,Harbour porpoise,1998-05-28,Exact,57.6710701,-2.548151731,U,140,TRUE,freshly dead- died on beach (code 2a),not necropsied,1998,Modern
+M1378/98,Cetacean,Harbour porpoise,Single,137,Phocoena phocoena,Harbour porpoise,1998-05-31,Exact,58.11703491,-7.127177238,U,150,TRUE,advanced decomposition (code 4),sampled,1998,Modern
+M1226/98,Cetacean,Harbour porpoise,Single,122,Phocoena phocoena,Harbour porpoise,1998-06-01,Exact,57.67942047,-1.934566617,F,162,FALSE,moderate decomposition (code 3),necropsied,1998,Modern
+M1379/98,Cetacean,Harbour porpoise,Single,137,Phocoena phocoena,Harbour porpoise,1998-06-08,Exact,58.1023674,-7.11146307,U,NA,TRUE,freshly dead- died on beach (code 2a),not necropsied,1998,Modern
+M1278/98,Cetacean,Harbour porpoise,Single,127,Phocoena phocoena,Harbour porpoise,1998-06-10,Exact,57.70231628,-2.895960808,F,140,FALSE,Slight decomposition (code 2b),necropsied,1998,Modern
+M1341/98,Cetacean,Harbour porpoise,Single,134,Phocoena phocoena,Harbour porpoise,1998-06-14,Exact,55.66159439,-5.152553558,M,110,TRUE,moderate decomposition (code 3),sampled,1998,Modern
+M2836/98,Cetacean,Harbour porpoise,Single,283,Phocoena phocoena,Harbour porpoise,1998-06-21,Exact,59.03885269,-2.57500267,U,100,TRUE,moderate decomposition (code 3),not necropsied,1998,Modern
+M1342/98,Cetacean,Harbour porpoise,Single,134,Phocoena phocoena,Harbour porpoise,1998-06-22,Exact,55.68562317,-4.869653702,F,75,FALSE,Slight decomposition (code 2b),necropsied,1998,Modern
+M1429/98,Cetacean,Harbour porpoise,Single,142,Phocoena phocoena,Harbour porpoise,1998-06-23,Exact,56.48046875,-6.294270515,U,NA,TRUE,indeterminate (code 5),not necropsied,1998,Modern
+M1369/98,Cetacean,Harbour porpoise,Single,136,Phocoena phocoena,Harbour porpoise,1998-06-24,Exact,56.20965195,-2.954351664,F,163,FALSE,moderate decomposition (code 3),necropsied,1998,Modern
+M1430/98,Cetacean,Harbour porpoise,Single,143,Phocoena phocoena,Harbour porpoise,1998-07-01,Exact,58.60107803,-3.510813236,M,140,FALSE,freshly dead- died on beach (code 2a),necropsied,1998,Modern
+M1438/98,Cetacean,Harbour porpoise,Single,143,Phocoena phocoena,Harbour porpoise,1998-07-02,Exact,57.70231628,-2.895960808,F,102,FALSE,freshly dead- died on beach (code 2a),necropsied,1998,Modern
+M1537/98,Cetacean,Harbour porpoise,Single,153,Phocoena phocoena,Harbour porpoise,1998-07-17,Exact,57.58140945,-4.083840847,U,100,TRUE,unknown,not necropsied,1998,Modern
+M1572/98,Cetacean,Harbour porpoise,Single,157,Phocoena phocoena,Harbour porpoise,1998-07-22,Exact,57.50292969,-4.308057785,U,90,FALSE,indeterminate (code 5),necropsied,1998,Modern
+M1694/98,Cetacean,Harbour porpoise,Single,169,Phocoena phocoena,Harbour porpoise,1998-08-01,Exact,57.8339653,-3.847427607,M,143,FALSE,advanced decomposition (code 4),necropsied,1998,Modern
+M1747/98,Cetacean,Harbour porpoise,Single,174,Phocoena phocoena,Harbour porpoise,1998-08-07,Exact,58.87889862,-2.905379295,M,90,FALSE,Slight decomposition (code 2b),necropsied,1998,Modern
+M1751/98,Cetacean,Harbour porpoise,Single,175,Phocoena phocoena,Harbour porpoise,1998-08-13,Exact,57.68080902,-2.580166101,M,86,FALSE,freshly dead- died on beach (code 2a),necropsied,1998,Modern
+M2007/98,Cetacean,Harbour porpoise,Single,200,Phocoena phocoena,Harbour porpoise,1998-09-14,Exact,57.68680954,-3.492698193,M,122,FALSE,moderate decomposition (code 3),necropsied,1998,Modern
+M2140/98,Cetacean,Harbour porpoise,Single,214,Phocoena phocoena,Harbour porpoise,1998-09-24,Exact,56.42635345,-2.804132462,U,100,TRUE,unknown,not necropsied,1998,Modern
+M2399/98,Cetacean,Harbour porpoise,Single,239,Phocoena phocoena,Harbour porpoise,1998-10-18,Exact,56.60152054,-6.226489067,U,100,TRUE,unknown,not necropsied,1998,Modern
+M2402/98,Cetacean,Harbour porpoise,Single,240,Phocoena phocoena,Harbour porpoise,1998-10-23,Exact,55.77891541,-5.099808216,U,NA,TRUE,unknown,not necropsied,1998,Modern
+M2462/98,Cetacean,Harbour porpoise,Single,246,Phocoena phocoena,Harbour porpoise,1998-11-06,Exact,57.23925018,-5.889664173,U,150,TRUE,advanced decomposition (code 4),not necropsied,1998,Modern
+M2660/98,Cetacean,Harbour porpoise,Single,266,Phocoena phocoena,Harbour porpoise,1998-11-26,Exact,54.95344543,-5.070278645,M,125,FALSE,moderate decomposition (code 3),necropsied,1998,Modern
+M2691/98,Cetacean,Harbour porpoise,Single,269,Phocoena phocoena,Harbour porpoise,1998-12-04,Exact,60.05862427,-1.346207142,M,130,TRUE,advanced decomposition (code 4),not necropsied,1998,Modern
+M2778/98,Cetacean,Harbour porpoise,Single,277,Phocoena phocoena,Harbour porpoise,1998-12-15,Exact,56.46459961,-2.861732483,U,100,TRUE,freshly dead- died on beach (code 2a),not necropsied,1998,Modern
+M2781/98,Cetacean,Harbour porpoise,Single,278,Phocoena phocoena,Harbour porpoise,1998-12-21,Exact,56.06385803,-3.188457251,F,128,TRUE,unknown,not necropsied,1998,Modern
+M2780/98,Cetacean,Harbour porpoise,Single,278,Phocoena phocoena,Harbour porpoise,1998-12-21,Exact,56.06385803,-3.188457251,M,131,TRUE,unknown,not necropsied,1998,Modern
+M2779/98,Cetacean,Harbour porpoise,Single,277,Phocoena phocoena,Harbour porpoise,1998-12-21,Exact,56.06385803,-3.188457251,M,123,TRUE,unknown,not necropsied,1998,Modern
+M2808/98,Cetacean,Harbour porpoise,Single,280,Phocoena phocoena,Harbour porpoise,1998-12-28,Exact,57.83601761,-3.829006672,M,100,FALSE,freshly dead- died on beach (code 2a),necropsied,1998,Modern
+M103/99,Cetacean,Harbour porpoise,Single,10,Phocoena phocoena,Harbour porpoise,1999-01-14,Exact,55.21425629,-4.882773876,M,145,FALSE,Slight decomposition (code 2b),necropsied,1999,Modern
+M379/99,Cetacean,Harbour porpoise,Single,37,Phocoena phocoena,Harbour porpoise,1999-01-15,Exact,55.44434357,-5.717286587,U,175,TRUE,unknown,not necropsied,1999,Modern
+M130/99,Cetacean,Harbour porpoise,Single,13,Phocoena phocoena,Harbour porpoise,1999-01-18,Exact,55.53490067,-4.657344818,F,160,FALSE,Slight decomposition (code 2b),necropsied,1999,Modern
+M164/99,Cetacean,Harbour porpoise,Single,16,Phocoena phocoena,Harbour porpoise,1999-01-24,Exact,56.02613831,-3.360591412,M,145,FALSE,moderate decomposition (code 3),necropsied,1999,Modern
+M246/99,Cetacean,Harbour porpoise,Single,24,Phocoena phocoena,Harbour porpoise,1999-02-03,Exact,56.0293808,-3.469828367,F,131,FALSE,Slight decomposition (code 2b),necropsied,1999,Modern
+M270/99,Cetacean,Harbour porpoise,Single,27,Phocoena phocoena,Harbour porpoise,1999-02-04,Exact,55.35861588,-4.782804012,U,112,TRUE,advanced decomposition (code 4),not necropsied,1999,Modern
+M338/99,Cetacean,Harbour porpoise,Single,33,Phocoena phocoena,Harbour porpoise,1999-02-12,Exact,56.35194397,-2.778286934,M,133,FALSE,freshly dead- died on beach (code 2a),necropsied,1999,Modern
+M335/99,Cetacean,Harbour porpoise,Single,33,Phocoena phocoena,Harbour porpoise,1999-02-15,Exact,56.01593399,-3.389105797,U,100,TRUE,advanced decomposition (code 4),not necropsied,1999,Modern
+M380/99,Cetacean,Harbour porpoise,Single,38,Phocoena phocoena,Harbour porpoise,1999-02-17,Exact,55.16135025,-5.235424042,F,140,FALSE,freshly dead- died on beach (code 2a),necropsied,1999,Modern
+M444/99,Cetacean,Harbour porpoise,Single,44,Phocoena phocoena,Harbour porpoise,1999-02-24,Exact,56.1994133,-2.881562471,U,100,TRUE,advanced decomposition (code 4),not necropsied,1999,Modern
+M493/99,Cetacean,Harbour porpoise,Single,49,Phocoena phocoena,Harbour porpoise,1999-03-12,Exact,57.17189026,-2.077693939,M,143,FALSE,moderate-advanced decomposition (code 3-4),necropsied,1999,Modern
+M492/99,Cetacean,Harbour porpoise,Single,49,Phocoena phocoena,Harbour porpoise,1999-03-14,Exact,60.15001678,-1.153485656,M,150,FALSE,Slight decomposition (code 2b),necropsied,1999,Modern
+M495/99,Cetacean,Harbour porpoise,Single,49,Phocoena phocoena,Harbour porpoise,1999-03-14,Exact,57.11608505,-7.393011093,U,140,TRUE,indeterminate (code 5),sampled,1999,Modern
+M499/99,Cetacean,Harbour porpoise,Single,49,Phocoena phocoena,Harbour porpoise,1999-03-19,Exact,57.33809662,-1.998304009,F,127,FALSE,freshly dead- died on beach (code 2a),necropsied,1999,Modern
+M500/99,Cetacean,Harbour porpoise,Single,50,Phocoena phocoena,Harbour porpoise,1999-03-22,Exact,60.09778976,-1.280692101,M,129,FALSE,moderate decomposition (code 3),necropsied,1999,Modern
+M503/99,Cetacean,Harbour porpoise,Single,50,Phocoena phocoena,Harbour porpoise,1999-03-26,Exact,60.21667862,-1.350284219,F,148,FALSE,freshly dead- died on beach (code 2a),necropsied,1999,Modern
+M522/99,Cetacean,Harbour porpoise,Single,52,Phocoena phocoena,Harbour porpoise,1999-04-03,Exact,57.44216919,-5.811157703,U,NA,TRUE,unknown,not necropsied,1999,Modern
+M506/99,Cetacean,Harbour porpoise,Single,50,Phocoena phocoena,Harbour porpoise,1999-04-07,Exact,57.56958389,-4.038012028,F,149,FALSE,freshly dead- died on beach (code 2a),necropsied,1999,Modern
+M508/99B,Cetacean,Harbour porpoise,Multiple,50,Phocoena phocoena,Harbour porpoise,1999-04-08,Exact,55.15953064,-5.269824505,M,119,FALSE,freshly dead- died on beach (code 2a),necropsied,1999,Modern
+M508/99A,Cetacean,Harbour porpoise,Multiple,50,Phocoena phocoena,Harbour porpoise,1999-04-08,Exact,55.15953064,-5.269824505,M,125,FALSE,freshly dead- died on beach (code 2a),necropsied,1999,Modern
+M510/99,Cetacean,Harbour porpoise,Single,51,Phocoena phocoena,Harbour porpoise,1999-04-09,Exact,57.51745987,-4.146987915,F,107,FALSE,freshly dead- died on beach (code 2a),necropsied,1999,Modern
+M511/99,Cetacean,Harbour porpoise,Single,51,Phocoena phocoena,Harbour porpoise,1999-04-12,Exact,56.03447723,-3.494109154,F,107,FALSE,Slight decomposition (code 2b),necropsied,1999,Modern
+M535/99,Cetacean,Harbour porpoise,Single,53,Phocoena phocoena,Harbour porpoise,1999-04-13,Exact,55.9828186,-4.806660652,U,110,TRUE,freshly dead- died on beach (code 2a),not necropsied,1999,Modern
+M513/99,Cetacean,Harbour porpoise,Single,51,Phocoena phocoena,Harbour porpoise,1999-04-16,Exact,57.68318176,-3.495908976,M,166,TRUE,moderate decomposition (code 3),not necropsied,1999,Modern
+M516/99,Cetacean,Harbour porpoise,Single,51,Phocoena phocoena,Harbour porpoise,1999-04-20,Exact,56.40803909,-5.54161644,F,114,FALSE,Slight decomposition (code 2b),necropsied,1999,Modern
+M519/99,Cetacean,Harbour porpoise,Single,51,Phocoena phocoena,Harbour porpoise,1999-04-25,Exact,57.18626404,-2.072761059,U,100,TRUE,unknown,not necropsied,1999,Modern
+M521/99,Cetacean,Harbour porpoise,Single,52,Phocoena phocoena,Harbour porpoise,1999-05-01,Exact,56.02729797,-4.866071224,F,147,FALSE,Slight decomposition (code 2b),necropsied,1999,Modern
+M520/99,Cetacean,Harbour porpoise,Single,52,Phocoena phocoena,Harbour porpoise,1999-05-01,Exact,56.41098404,-5.501344681,F,146,FALSE,moderate decomposition (code 3),necropsied,1999,Modern
+M532/99,Cetacean,Harbour porpoise,Single,53,Phocoena phocoena,Harbour porpoise,1999-05-07,Exact,57.76416397,-3.889260292,M,143,FALSE,Slight decomposition (code 2b),necropsied,1999,Modern
+M530/99,Cetacean,Harbour porpoise,Single,53,Phocoena phocoena,Harbour porpoise,1999-05-16,Exact,57.57123947,-4.046474457,U,150,TRUE,alive- refloated (code 1),not necropsied,1999,Modern
+M536/99,Cetacean,Harbour porpoise,Single,53,Phocoena phocoena,Harbour porpoise,1999-05-21,Exact,57.17457199,-2.089274168,M,145,FALSE,moderate-advanced decomposition (code 3-4),necropsied,1999,Modern
+M543/99,Cetacean,Harbour porpoise,Single,54,Phocoena phocoena,Harbour porpoise,1999-06-12,Exact,57.66640854,-3.01240921,F,81,FALSE,moderate decomposition (code 3),necropsied,1999,Modern
+M547/99,Cetacean,Harbour porpoise,Single,54,Phocoena phocoena,Harbour porpoise,1999-06-22,Exact,55.86561584,-5.189855576,M,126,FALSE,moderate decomposition (code 3),necropsied,1999,Modern
+M546/99,Cetacean,Harbour porpoise,Single,54,Phocoena phocoena,Harbour porpoise,1999-06-22,Exact,55.42896271,-5.720592976,M,68,FALSE,freshly dead- died on beach (code 2a),necropsied,1999,Modern
+M548/99,Cetacean,Harbour porpoise,Single,54,Phocoena phocoena,Harbour porpoise,1999-06-23,Exact,58.59732056,-3.524415016,F,76,FALSE,Slight decomposition (code 2b),necropsied,1999,Modern
+M563/99,Cetacean,Harbour porpoise,Single,56,Phocoena phocoena,Harbour porpoise,1999-07-29,Exact,56.70302963,-2.458874226,M,133,FALSE,Slight decomposition (code 2b),necropsied,1999,Modern
+M565/99,Cetacean,Harbour porpoise,Single,56,Phocoena phocoena,Harbour porpoise,1999-08-01,Exact,56.51729965,-5.363163948,F,155,FALSE,Slight decomposition (code 2b),necropsied,1999,Modern
+M571/99,Cetacean,Harbour porpoise,Single,57,Phocoena phocoena,Harbour porpoise,1999-08-02,Exact,57.29150772,-7.415401459,U,NA,TRUE,indeterminate (code 5),not necropsied,1999,Modern
+M575/99,Cetacean,Harbour porpoise,Single,57,Phocoena phocoena,Harbour porpoise,1999-08-10,Exact,57.14314651,-2.071026802,F,159,FALSE,moderate decomposition (code 3),necropsied,1999,Modern
+M576/99,Cetacean,Harbour porpoise,Single,57,Phocoena phocoena,Harbour porpoise,1999-08-12,Exact,54.84145355,-3.854608774,F,152,FALSE,Slight decomposition (code 2b),necropsied,1999,Modern
+M580/99,Cetacean,Harbour porpoise,Single,58,Phocoena phocoena,Harbour porpoise,1999-08-14,Exact,57.71967697,-3.28083539,M,92,FALSE,freshly dead- died on beach (code 2a),necropsied,1999,Modern
+M585/99,Cetacean,Harbour porpoise,Single,58,Phocoena phocoena,Harbour porpoise,1999-08-19,Exact,57.66455841,-3.019075632,F,96,FALSE,moderate decomposition (code 3),necropsied,1999,Modern
+M589/99,Cetacean,Harbour porpoise,Single,58,Phocoena phocoena,Harbour porpoise,1999-08-23,Exact,56.28699493,-6.245031834,M,103,TRUE,advanced decomposition (code 4),sampled,1999,Modern
+M599/99,Cetacean,Harbour porpoise,Single,59,Phocoena phocoena,Harbour porpoise,1999-08-27,Exact,59.1529808,-2.739513874,U,150,TRUE,unknown,not necropsied,1999,Modern
+M604/99,Cetacean,Harbour porpoise,Single,60,Phocoena phocoena,Harbour porpoise,1999-09-24,Exact,57.26411438,-5.928789139,M,140,FALSE,moderate decomposition (code 3),necropsied,1999,Modern
+M610/99,Cetacean,Harbour porpoise,Single,61,Phocoena phocoena,Harbour porpoise,1999-10-02,Exact,55.5537529,-4.65861702,M,149,FALSE,freshly dead- died on beach (code 2a),necropsied,1999,Modern
+M615/99,Cetacean,Harbour porpoise,Single,61,Phocoena phocoena,Harbour porpoise,1999-10-08,Exact,57.70519638,-3.4565413,M,135,FALSE,advanced decomposition (code 4),necropsied,1999,Modern
+M622/99b,Cetacean,Harbour porpoise,Multiple,62,Phocoena phocoena,Harbour porpoise,1999-10-25,Exact,56.53538895,-5.584425449,U,120,TRUE,advanced decomposition (code 4),not necropsied,1999,Modern
+M622/99a,Cetacean,Harbour porpoise,Multiple,62,Phocoena phocoena,Harbour porpoise,1999-10-25,Exact,56.53538895,-5.584425449,U,120,TRUE,advanced decomposition (code 4),not necropsied,1999,Modern
+M672/99,Cetacean,Harbour porpoise,Single,67,Phocoena phocoena,Harbour porpoise,1999-10-27,Exact,58.92390823,-2.748498201,U,107,TRUE,unknown,not necropsied,1999,Modern
+M624/99,Cetacean,Harbour porpoise,Single,62,Phocoena phocoena,Harbour porpoise,1999-10-29,Exact,57.53441238,-6.60331583,F,155,FALSE,moderate decomposition (code 3),necropsied,1999,Modern
+M633/99,Cetacean,Harbour porpoise,Single,63,Phocoena phocoena,Harbour porpoise,1999-11-04,Exact,57.08533096,-7.312500477,M,116,FALSE,Slight decomposition (code 2b),necropsied,1999,Modern
+M638/99,Cetacean,Harbour porpoise,Single,63,Phocoena phocoena,Harbour porpoise,1999-11-12,Exact,58.59915924,-3.361025572,F,147,FALSE,freshly dead- died on beach (code 2a),necropsied,1999,Modern
+M644/99,Cetacean,Harbour porpoise,Single,64,Phocoena phocoena,Harbour porpoise,1999-11-18,Exact,57.66368866,-3.619158745,F,125,FALSE,moderate decomposition (code 3),necropsied,1999,Modern
+M646/99,Cetacean,Harbour porpoise,Single,64,Phocoena phocoena,Harbour porpoise,1999-11-21,Exact,57.68047714,-4.014050007,F,133,FALSE,advanced decomposition (code 4),necropsied,1999,Modern
+M659/99,Cetacean,Harbour porpoise,Single,65,Phocoena phocoena,Harbour porpoise,1999-12-18,Exact,55.84103012,-5.131914139,F,118,FALSE,freshly dead- died on beach (code 2a),necropsied,1999,Modern
+M662/99,Cetacean,Harbour porpoise,Single,66,Phocoena phocoena,Harbour porpoise,1999-12-22,Exact,58.3129158,-6.738430977,U,NA,TRUE,freshly dead- died on beach (code 2a),not necropsied,1999,Modern
+M663/99,Cetacean,Harbour porpoise,Single,66,Phocoena phocoena,Harbour porpoise,1999-12-24,Exact,57.28734589,-5.727044106,U,120,TRUE,freshly dead- died on beach (code 2a),sampled,1999,Modern
+M17/00,Cetacean,Harbour porpoise,Single,17,Phocoena phocoena,Harbour porpoise,2000-02-06,Exact,57.57024765,-7.483645439,U,150,TRUE,unknown,not necropsied,2000,Modern
+M12/00,Cetacean,Harbour porpoise,Single,12,Phocoena phocoena,Harbour porpoise,2000-02-06,Exact,57.20567322,-6.01370573,M,142,FALSE,freshly dead- died on beach (code 2a),necropsied,2000,Modern
+M34/00,Cetacean,Harbour porpoise,Single,34,Phocoena phocoena,Harbour porpoise,2000-02-07,Exact,59.38879013,-2.420709848,U,100,TRUE,unknown,not necropsied,2000,Modern
+M14/00,Cetacean,Harbour porpoise,Single,14,Phocoena phocoena,Harbour porpoise,2000-02-08,Exact,54.86994934,-3.622143745,F,131,FALSE,Slight decomposition (code 2b),necropsied,2000,Modern
+M29/00,Cetacean,Harbour porpoise,Single,29,Phocoena phocoena,Harbour porpoise,2000-03-03,Exact,55.46699905,-5.71150589,U,120,TRUE,alive- refloated (code 1),not necropsied,2000,Modern
+M50/00,Cetacean,Harbour porpoise,Single,50,Phocoena phocoena,Harbour porpoise,2000-03-15,Exact,57.69776917,-2.904243231,M,104,FALSE,moderate decomposition (code 3),necropsied,2000,Modern
+M60/00,Cetacean,Harbour porpoise,Single,60,Phocoena phocoena,Harbour porpoise,2000-04-03,Exact,57.83601761,-3.829006672,M,125,FALSE,freshly dead- died on beach (code 2a),necropsied,2000,Modern
+M59/00,Cetacean,Harbour porpoise,Single,59,Phocoena phocoena,Harbour porpoise,2000-04-03,Exact,57.14314651,-2.072665453,F,122,FALSE,Slight decomposition (code 2b),necropsied,2000,Modern
+M61/00,Cetacean,Harbour porpoise,Single,61,Phocoena phocoena,Harbour porpoise,2000-04-05,Exact,56.06852341,-3.170922756,U,100,TRUE,unknown,not necropsied,2000,Modern
+M62/00,Cetacean,Harbour porpoise,Single,62,Phocoena phocoena,Harbour porpoise,2000-04-15,Exact,57.15391922,-2.077645063,U,100,TRUE,freshly dead- died on beach (code 2a),not necropsied,2000,Modern
+M63/00,Cetacean,Harbour porpoise,Single,63,Phocoena phocoena,Harbour porpoise,2000-04-15,Exact,57.67471695,-3.093126774,M,116,FALSE,freshly dead- died on beach (code 2a),necropsied,2000,Modern
+M73/00,Cetacean,Harbour porpoise,Single,73,Phocoena phocoena,Harbour porpoise,2000-04-23,Exact,56.77330399,-2.399201393,F,106,FALSE,Slight decomposition (code 2b),necropsied,2000,Modern
+M77/00,Cetacean,Harbour porpoise,Single,77,Phocoena phocoena,Harbour porpoise,2000-04-27,Exact,57.66447067,-3.029117584,F,111,FALSE,Slight decomposition (code 2b),necropsied,2000,Modern
+M83/00,Cetacean,Harbour porpoise,Single,83,Phocoena phocoena,Harbour porpoise,2000-04-29,Exact,57.67190552,-2.999158859,F,100,FALSE,moderate decomposition (code 3),necropsied,2000,Modern
+M81/00,Cetacean,Harbour porpoise,Single,81,Phocoena phocoena,Harbour porpoise,2000-05-04,Exact,57.17457962,-2.084303856,U,110,TRUE,advanced decomposition (code 4),not necropsied,2000,Modern
+M84/00,Cetacean,Harbour porpoise,Single,84,Phocoena phocoena,Harbour porpoise,2000-05-08,Exact,57.58650208,-3.933571577,M,113,FALSE,advanced decomposition (code 4),necropsied,2000,Modern
+M92/00,Cetacean,Harbour porpoise,Single,92,Phocoena phocoena,Harbour porpoise,2000-05-13,Exact,57.43279266,-7.394597054,U,NA,TRUE,indeterminate (code 5),not necropsied,2000,Modern
+M87/00,Cetacean,Harbour porpoise,Single,87,Phocoena phocoena,Harbour porpoise,2000-05-14,Exact,56.44765854,-2.84351182,U,150,TRUE,unknown,not necropsied,2000,Modern
+M94/00,Cetacean,Harbour porpoise,Single,94,Phocoena phocoena,Harbour porpoise,2000-05-31,Exact,55.99448395,-2.891328335,M,152,FALSE,Slight decomposition (code 2b),necropsied,2000,Modern
+M97/00,Cetacean,Harbour porpoise,Single,97,Phocoena phocoena,Harbour porpoise,2000-06-04,Exact,56.95885086,-2.202210903,F,115,FALSE,freshly dead- died on beach (code 2a),necropsied,2000,Modern
+M96/00,Cetacean,Harbour porpoise,Single,96,Phocoena phocoena,Harbour porpoise,2000-06-04,Exact,57.67470551,-3.094806194,M,78,FALSE,Slight decomposition (code 2b),necropsied,2000,Modern
+M111/00,Cetacean,Harbour porpoise,Single,111,Phocoena phocoena,Harbour porpoise,2000-06-26,Exact,57.16919327,-2.077678204,M,118,FALSE,moderate decomposition (code 3),necropsied,2000,Modern
+M113/00,Cetacean,Harbour porpoise,Single,113,Phocoena phocoena,Harbour porpoise,2000-06-27,Exact,56.53651047,-5.416931629,M,74,FALSE,freshly dead- died on beach (code 2a),necropsied,2000,Modern
+M142/00,Cetacean,Harbour porpoise,Single,142,Phocoena phocoena,Harbour porpoise,2000-06-28,Exact,58.96224594,-3.340515614,U,158,TRUE,advanced decomposition (code 4),not necropsied,2000,Modern
+M114/00,Cetacean,Harbour porpoise,Single,114,Phocoena phocoena,Harbour porpoise,2000-06-28,Exact,57.75296402,-3.917233229,M,82,FALSE,freshly dead- died on beach (code 2a),necropsied,2000,Modern
+M115/00,Cetacean,Harbour porpoise,Single,115,Phocoena phocoena,Harbour porpoise,2000-06-29,Exact,57.58722305,-4.112609386,F,74,FALSE,freshly dead- died on beach (code 2a),necropsied,2000,Modern
+M116/00,Cetacean,Harbour porpoise,Single,116,Phocoena phocoena,Harbour porpoise,2000-06-30,Exact,57.67178726,-2.343639135,F,77,FALSE,freshly dead- died on beach (code 2a),necropsied,2000,Modern
+M119/00,Cetacean,Harbour porpoise,Single,119,Phocoena phocoena,Harbour porpoise,2000-07-04,Exact,55.6481781,-4.817630291,U,NA,TRUE,unknown,not necropsied,2000,Modern
+M118/00,Cetacean,Harbour porpoise,Single,118,Phocoena phocoena,Harbour porpoise,2000-07-04,Exact,60.15197754,-1.045366049,M,134,TRUE,advanced decomposition (code 4),not necropsied,2000,Modern
+M120/00,Cetacean,Harbour porpoise,Single,120,Phocoena phocoena,Harbour porpoise,2000-07-06,Exact,57.75399017,-3.908887148,M,125,FALSE,advanced decomposition (code 4),necropsied,2000,Modern
+M128/00,Cetacean,Harbour porpoise,Single,128,Phocoena phocoena,Harbour porpoise,2000-07-17,Exact,57.66482925,-3.527003288,U,100,TRUE,unknown,not necropsied,2000,Modern
+M132/00,Cetacean,Harbour porpoise,Single,132,Phocoena phocoena,Harbour porpoise,2000-07-19,Exact,60.27931595,-1.151949525,F,148,FALSE,moderate decomposition (code 3),necropsied,2000,Modern
+M157/00,Cetacean,Harbour porpoise,Single,157,Phocoena phocoena,Harbour porpoise,2000-08-09,Exact,57.39377594,-7.402170181,M,126,TRUE,advanced decomposition (code 4),sampled,2000,Modern
+M148/00,Cetacean,Harbour porpoise,Single,148,Phocoena phocoena,Harbour porpoise,2000-08-09,Exact,56.00139236,-4.897826195,F,128,FALSE,freshly dead- died on beach (code 2a),necropsied,2000,Modern
+M177/00,Cetacean,Harbour porpoise,Single,177,Phocoena phocoena,Harbour porpoise,2000-08-10,Exact,59.0466156,-2.805208683,U,NA,TRUE,unknown,not necropsied,2000,Modern
+M161/00,Cetacean,Harbour porpoise,Single,161,Phocoena phocoena,Harbour porpoise,2000-08-12,Exact,57.08899307,-7.289886475,U,135,TRUE,advanced decomposition (code 4),sampled,2000,Modern
+M164/00,Cetacean,Harbour porpoise,Single,164,Phocoena phocoena,Harbour porpoise,2000-08-28,Exact,56.74625397,-2.429983139,M,140,FALSE,Slight decomposition (code 2b),necropsied,2000,Modern
+M168/00,Cetacean,Harbour porpoise,Single,168,Phocoena phocoena,Harbour porpoise,2000-09-05,Exact,56.66244125,-2.499167442,M,146,FALSE,Slight decomposition (code 2b),necropsied,2000,Modern
+M176/00,Cetacean,Harbour porpoise,Single,176,Phocoena phocoena,Harbour porpoise,2000-09-23,Exact,56.71474075,-2.447594166,U,NA,TRUE,unknown,not necropsied,2000,Modern
+M184/00,Cetacean,Harbour porpoise,Single,184,Phocoena phocoena,Harbour porpoise,2000-09-26,Exact,56.97052383,-2.203921795,U,100,TRUE,moderate decomposition (code 3),not necropsied,2000,Modern
+M183/00,Cetacean,Harbour porpoise,Single,183,Phocoena phocoena,Harbour porpoise,2000-09-26,Exact,57.74845123,-3.918684959,F,103,FALSE,freshly dead- died on beach (code 2a),necropsied,2000,Modern
+M186/00,Cetacean,Harbour porpoise,Single,186,Phocoena phocoena,Harbour porpoise,2000-09-28,Exact,58.0054512,-3.854572296,U,130,TRUE,Slight decomposition (code 2b),not necropsied,2000,Modern
+M206/00,Cetacean,Harbour porpoise,Single,206,Phocoena phocoena,Harbour porpoise,2000-11-08,Exact,57.69666672,-2.800194502,U,110,TRUE,advanced decomposition (code 4),not necropsied,2000,Modern
+M210/00,Cetacean,Harbour porpoise,Single,210,Phocoena phocoena,Harbour porpoise,2000-11-16,Exact,58.53420639,-3.109443903,U,150,TRUE,unknown,not necropsied,2000,Modern
+M216/00,Cetacean,Harbour porpoise,Single,216,Phocoena phocoena,Harbour porpoise,2000-11-27,Exact,56.96782303,-2.203913689,M,144,FALSE,freshly dead- died on beach (code 2a),necropsied,2000,Modern
+M226/00,Cetacean,Harbour porpoise,Single,226,Phocoena phocoena,Harbour porpoise,2000-12-21,Exact,54.93018723,-4.993555546,F,120,FALSE,moderate decomposition (code 3),necropsied,2000,Modern
+M229/00,Cetacean,Harbour porpoise,Single,229,Phocoena phocoena,Harbour porpoise,2000-12-23,Exact,57.44421005,-7.401294708,M,135,TRUE,advanced decomposition (code 4),sampled,2000,Modern
+M1/01,Cetacean,Harbour porpoise,Single,1,Phocoena phocoena,Harbour porpoise,2001-01-05,Exact,60.15699768,-1.122683764,M,102,FALSE,freshly dead- died on beach (code 2a),necropsied,2001,Modern
+M4/01,Cetacean,Harbour porpoise,Single,4,Phocoena phocoena,Harbour porpoise,2001-01-18,Exact,56.64085388,-2.507032633,F,148,FALSE,freshly dead- died on beach (code 2a),necropsied,2001,Modern
+M5/01,Cetacean,Harbour porpoise,Single,5,Phocoena phocoena,Harbour porpoise,2001-01-22,Exact,60.19661331,-1.289361596,M,144,FALSE,Slight decomposition (code 2b),necropsied,2001,Modern
+M6/01,Cetacean,Harbour porpoise,Single,6,Phocoena phocoena,Harbour porpoise,2001-01-24,Exact,57.50320816,-1.789703012,F,117,FALSE,Slight decomposition (code 2b),necropsied,2001,Modern
+M8/01,Cetacean,Harbour porpoise,Single,8,Phocoena phocoena,Harbour porpoise,2001-01-25,Exact,55.94955826,-4.92279911,F,129,FALSE,Slight decomposition (code 2b),necropsied,2001,Modern
+M10/01,Cetacean,Harbour porpoise,Single,10,Phocoena phocoena,Harbour porpoise,2001-01-28,Exact,56.30241776,-2.6415236,F,125,FALSE,Slight decomposition (code 2b),necropsied,2001,Modern
+M18/01,Cetacean,Harbour porpoise,Single,18,Phocoena phocoena,Harbour porpoise,2001-02-13,Exact,55.7751236,-5.107494831,U,120,TRUE,advanced decomposition (code 4),not necropsied,2001,Modern
+M185/01,Cetacean,Harbour porpoise,Single,185,Phocoena phocoena,Harbour porpoise,2001-02-17,Exact,59.09871292,-3.345841169,U,160,FALSE,Slight decomposition (code 2b),not necropsied,2001,Modern
+M21/01,Cetacean,Harbour porpoise,Single,21,Phocoena phocoena,Harbour porpoise,2001-02-19,Exact,56.03639603,-3.693218231,U,140,TRUE,alive- refloated (code 1),not necropsied,2001,Modern
+M22/01,Cetacean,Harbour porpoise,Single,22,Phocoena phocoena,Harbour porpoise,2001-02-25,Exact,57.71087265,-3.431586742,M,130,FALSE,freshly dead- died on beach (code 2a),necropsied,2001,Modern
+M24/01,Cetacean,Harbour porpoise,Single,24,Phocoena phocoena,Harbour porpoise,2001-03-07,Exact,58.20584106,-6.308377743,M,137,FALSE,Slight decomposition (code 2b),necropsied,2001,Modern
+M25/01,Cetacean,Harbour porpoise,Single,25,Phocoena phocoena,Harbour porpoise,2001-03-08,Exact,56.49610138,-2.711385727,F,114,FALSE,Slight decomposition (code 2b),necropsied,2001,Modern
+M28/01,Cetacean,Harbour porpoise,Single,28,Phocoena phocoena,Harbour porpoise,2001-03-11,Exact,57.25455093,-2.038084507,U,120,TRUE,Slight decomposition (code 2b),not necropsied,2001,Modern
+M27/01,Cetacean,Harbour porpoise,Single,27,Phocoena phocoena,Harbour porpoise,2001-03-14,Exact,58.20630264,-6.294799805,F,126,FALSE,Slight decomposition (code 2b),necropsied,2001,Modern
+M30/01,Cetacean,Harbour porpoise,Single,30,Phocoena phocoena,Harbour porpoise,2001-03-20,Exact,55.9896698,-4.701314926,F,155,FALSE,moderate decomposition (code 3),necropsied,2001,Modern
+M181/01,Cetacean,Harbour porpoise,Single,181,Phocoena phocoena,Harbour porpoise,2001-03-21,Exact,58.92394257,-2.74329567,U,122,TRUE,unknown,not necropsied,2001,Modern
+M37/01,Cetacean,Harbour porpoise,Single,37,Phocoena phocoena,Harbour porpoise,2001-03-27,Exact,56.63817215,-2.502119064,U,120,TRUE,unknown,not necropsied,2001,Modern
+M31/01,Cetacean,Harbour porpoise,Single,31,Phocoena phocoena,Harbour porpoise,2001-03-30,Exact,57.15841293,-2.077665567,M,112,FALSE,Slight decomposition (code 2b),necropsied,2001,Modern
+M34/01,Cetacean,Harbour porpoise,Single,34,Phocoena phocoena,Harbour porpoise,2001-04-08,Exact,57.64234924,-3.601451397,M,109,FALSE,Slight decomposition (code 2b),necropsied,2001,Modern
+M38/01,Cetacean,Harbour porpoise,Single,38,Phocoena phocoena,Harbour porpoise,2001-04-09,Exact,56.64715576,-2.502229452,M,124,FALSE,Slight decomposition (code 2b),necropsied,2001,Modern
+M35/01,Cetacean,Harbour porpoise,Single,35,Phocoena phocoena,Harbour porpoise,2001-04-09,Exact,56.29611969,-5.64928484,F,163,FALSE,Slight decomposition (code 2b),necropsied,2001,Modern
+M36/01,Cetacean,Harbour porpoise,Single,36,Phocoena phocoena,Harbour porpoise,2001-04-10,Exact,57.24248505,-5.90161705,F,104,FALSE,Slight decomposition (code 2b),necropsied,2001,Modern
+M39/01,Cetacean,Harbour porpoise,Single,39,Phocoena phocoena,Harbour porpoise,2001-04-11,Exact,57.69413376,-2.610579491,F,115,FALSE,moderate decomposition (code 3),necropsied,2001,Modern
+M40/01,Cetacean,Harbour porpoise,Single,40,Phocoena phocoena,Harbour porpoise,2001-04-14,Exact,57.87995148,-4.013381004,M,107,FALSE,moderate decomposition (code 3),necropsied,2001,Modern
+M43/01,Cetacean,Harbour porpoise,Single,43,Phocoena phocoena,Harbour porpoise,2001-04-17,Exact,57.67992401,-2.325266123,M,118,FALSE,freshly dead- died on beach (code 2a),necropsied,2001,Modern
+M45/01,Cetacean,Harbour porpoise,Single,45,Phocoena phocoena,Harbour porpoise,2001-04-19,Exact,57.694664,-2.833699465,F,121,FALSE,Slight decomposition (code 2b),necropsied,2001,Modern
+M46/01,Cetacean,Harbour porpoise,Single,46,Phocoena phocoena,Harbour porpoise,2001-04-20,Exact,57.75024796,-3.918781519,M,153,FALSE,Slight decomposition (code 2b),necropsied,2001,Modern
+M47/01,Cetacean,Harbour porpoise,Single,47,Phocoena phocoena,Harbour porpoise,2001-04-21,Exact,57.15571594,-2.077649832,M,114,FALSE,moderate decomposition (code 3),necropsied,2001,Modern
+M48/01,Cetacean,Harbour porpoise,Single,48,Phocoena phocoena,Harbour porpoise,2001-04-21,Exact,57.15571594,-2.077649832,M,104,FALSE,moderate-advanced decomposition (code 3-4),necropsied,2001,Modern
+M49/01,Cetacean,Harbour porpoise,Single,49,Phocoena phocoena,Harbour porpoise,2001-04-24,Exact,57.24646378,-2.041383028,M,110,FALSE,freshly dead- died on beach (code 2a),necropsied,2001,Modern
+M51/01,Cetacean,Harbour porpoise,Single,51,Phocoena phocoena,Harbour porpoise,2001-04-26,Exact,55.88470078,-4.965891838,M,129,FALSE,freshly dead- died on beach (code 2a),necropsied,2001,Modern
+M55/01,Cetacean,Harbour porpoise,Single,55,Phocoena phocoena,Harbour porpoise,2001-05-04,Exact,57.88021469,-3.996533394,M,103,FALSE,Slight decomposition (code 2b),necropsied,2001,Modern
+M58/01,Cetacean,Harbour porpoise,Single,58,Phocoena phocoena,Harbour porpoise,2001-05-09,Exact,57.49967194,-4.239413738,M,110,FALSE,advanced decomposition (code 4),necropsied,2001,Modern
+M57/01,Cetacean,Harbour porpoise,Single,57,Phocoena phocoena,Harbour porpoise,2001-05-10,Exact,57.19704819,-2.069473028,M,151,FALSE,advanced decomposition (code 4),necropsied,2001,Modern
+M63/01,Cetacean,Harbour porpoise,Single,63,Phocoena phocoena,Harbour porpoise,2001-05-17,Exact,56.85020447,-5.319160938,F,110,FALSE,freshly dead- died on beach (code 2a),necropsied,2001,Modern
+M59/01,Cetacean,Harbour porpoise,Single,59,Phocoena phocoena,Harbour porpoise,2001-05-18,Exact,56.64714813,-2.503863096,F,110,FALSE,advanced decomposition (code 4),necropsied,2001,Modern
+M66/01,Cetacean,Harbour porpoise,Single,66,Phocoena phocoena,Harbour porpoise,2001-05-19,Exact,57.7466507,-3.918589115,U,120,TRUE,advanced decomposition (code 4),not necropsied,2001,Modern
+M68/01,Cetacean,Harbour porpoise,Single,68,Phocoena phocoena,Harbour porpoise,2001-05-23,Exact,57.25318527,-5.90441227,U,NA,TRUE,unknown,not necropsied,2001,Modern
+M77/01,Cetacean,Harbour porpoise,Single,77,Phocoena phocoena,Harbour porpoise,2001-06-12,Exact,55.96471024,-2.398839474,F,NA,FALSE,advanced decomposition (code 4),necropsied,2001,Modern
+M127/01,Cetacean,Harbour porpoise,Single,127,Phocoena phocoena,Harbour porpoise,2001-06-13,Exact,56.33658981,-6.214914322,M,112,TRUE,advanced decomposition (code 4),sampled,2001,Modern
+M80/01,Cetacean,Harbour porpoise,Single,80,Phocoena phocoena,Harbour porpoise,2001-06-18,Exact,56.33397675,-2.7779212,F,79,FALSE,Slight decomposition (code 2b),necropsied,2001,Modern
+M82/01,Cetacean,Harbour porpoise,Single,82,Phocoena phocoena,Harbour porpoise,2001-06-21,Exact,57.15571594,-2.076010227,F,78,FALSE,moderate decomposition (code 3),necropsied,2001,Modern
+M83/01,Cetacean,Harbour porpoise,Single,83,Phocoena phocoena,Harbour porpoise,2001-06-22,Exact,56.20442581,-4.745419979,F,110,FALSE,freshly dead- died on beach (code 2a),necropsied,2001,Modern
+M86/01,Cetacean,Harbour porpoise,Single,86,Phocoena phocoena,Harbour porpoise,2001-06-29,Exact,57.25724411,-2.034775972,U,NA,TRUE,unknown,not necropsied,2001,Modern
+M91/01,Cetacean,Harbour porpoise,Single,91,Phocoena phocoena,Harbour porpoise,2001-07-07,Exact,56.3741951,-2.811115026,M,84,FALSE,Slight decomposition (code 2b),necropsied,2001,Modern
+M90/01,Cetacean,Harbour porpoise,Single,90,Phocoena phocoena,Harbour porpoise,2001-07-09,Exact,56.18504333,-4.768207073,F,116,FALSE,moderate decomposition (code 3),necropsied,2001,Modern
+M93/01,Cetacean,Harbour porpoise,Single,93,Phocoena phocoena,Harbour porpoise,2001-07-10,Exact,57.27251053,-5.742132664,U,NA,TRUE,indeterminate (code 5),not necropsied,2001,Modern
+M100/01,Cetacean,Harbour porpoise,Single,100,Phocoena phocoena,Harbour porpoise,2001-07-18,Exact,57.71081543,-3.268776178,F,164,FALSE,moderate decomposition (code 3),necropsied,2001,Modern
+M104/01,Cetacean,Harbour porpoise,Single,104,Phocoena phocoena,Harbour porpoise,2001-07-21,Exact,57.69644547,-2.127456903,U,140,TRUE,unknown,not necropsied,2001,Modern
+M105/01,Cetacean,Harbour porpoise,Single,105,Phocoena phocoena,Harbour porpoise,2001-07-23,Exact,57.24375534,-5.860288143,M,157,FALSE,freshly dead- died on beach (code 2a),necropsied,2001,Modern
+M108/01,Cetacean,Harbour porpoise,Single,108,Phocoena phocoena,Harbour porpoise,2001-07-24,Exact,58.59625626,-3.379840374,U,NA,TRUE,unknown,not necropsied,2001,Modern
+M111/01,Cetacean,Harbour porpoise,Single,111,Phocoena phocoena,Harbour porpoise,2001-07-29,Exact,54.89587021,-4.392037868,F,164,FALSE,freshly dead- died on beach (code 2a),necropsied,2001,Modern
+M113/01,Cetacean,Harbour porpoise,Single,113,Phocoena phocoena,Harbour porpoise,2001-08-03,Exact,57.70433807,-2.864132643,M,104,FALSE,freshly dead- died on beach (code 2a),necropsied,2001,Modern
+M118/01,Cetacean,Harbour porpoise,Single,118,Phocoena phocoena,Harbour porpoise,2001-08-05,Exact,58.0954895,-7.10367918,F,145,TRUE,unknown,sampled,2001,Modern
+M117/01,Cetacean,Harbour porpoise,Single,117,Phocoena phocoena,Harbour porpoise,2001-08-07,Exact,55.8416214,-4.887526512,M,139,FALSE,moderate decomposition (code 3),necropsied,2001,Modern
+M120/01,Cetacean,Harbour porpoise,Single,120,Phocoena phocoena,Harbour porpoise,2001-08-17,Exact,57.67747498,-2.975841999,F,119,FALSE,moderate decomposition (code 3),necropsied,2001,Modern
+M121/01,Cetacean,Harbour porpoise,Single,121,Phocoena phocoena,Harbour porpoise,2001-08-19,Exact,56.63637543,-2.502093792,F,140,FALSE,moderate decomposition (code 3),necropsied,2001,Modern
+M123/01,Cetacean,Harbour porpoise,Single,123,Phocoena phocoena,Harbour porpoise,2001-08-22,Exact,56.49882126,-2.706564903,M,147,FALSE,moderate decomposition (code 3),necropsied,2001,Modern
+M135/01,Cetacean,Harbour porpoise,Single,135,Phocoena phocoena,Harbour porpoise,2001-09-14,Exact,55.73838425,-5.596999168,F,168,FALSE,freshly dead- died on beach (code 2a),necropsied,2001,Modern
+M136/01,Cetacean,Harbour porpoise,Single,136,Phocoena phocoena,Harbour porpoise,2001-09-15,Exact,57.69672394,-3.489756584,F,137,FALSE,Slight decomposition (code 2b),necropsied,2001,Modern
+M164/01,Cetacean,Harbour porpoise,Single,164,Phocoena phocoena,Harbour porpoise,2001-10-25,Exact,58.92474747,-3.128901005,M,154,TRUE,moderate decomposition (code 3),not necropsied,2001,Modern
+M147/01,Cetacean,Harbour porpoise,Single,147,Phocoena phocoena,Harbour porpoise,2001-11-01,Exact,57.90540695,-3.994559288,M,154,FALSE,moderate decomposition (code 3),necropsied,2001,Modern
+M154/01,Cetacean,Harbour porpoise,Single,154,Phocoena phocoena,Harbour porpoise,2001-11-04,Exact,57.30116653,-7.400190353,U,120,TRUE,advanced decomposition (code 4),sampled,2001,Modern
+M161/01,Cetacean,Harbour porpoise,Single,161,Phocoena phocoena,Harbour porpoise,2001-11-22,Exact,55.99739456,-4.717887402,F,149,FALSE,Slight decomposition (code 2b),necropsied,2001,Modern
+M174/01,Cetacean,Harbour porpoise,Single,174,Phocoena phocoena,Harbour porpoise,2001-12-09,Exact,56.66333771,-2.499188662,M,143,FALSE,Slight decomposition (code 2b),necropsied,2001,Modern
+M4/02,Cetacean,Harbour porpoise,Single,4,Phocoena phocoena,Harbour porpoise,2002-01-05,Exact,57.47961044,-7.373113155,M,112,TRUE,moderate decomposition (code 3),sampled,2002,Modern
+M2/02,Cetacean,Harbour porpoise,Single,2,Phocoena phocoena,Harbour porpoise,2002-01-06,Exact,57.69952393,-2.909314871,F,106,FALSE,Slight decomposition (code 2b),necropsied,2002,Modern
+M3/02,Cetacean,Harbour porpoise,Single,3,Phocoena phocoena,Harbour porpoise,2002-01-07,Exact,55.78461075,-6.311451912,M,154,FALSE,Slight decomposition (code 2b),necropsied,2002,Modern
+M13/02,Cetacean,Harbour porpoise,Single,13,Phocoena phocoena,Harbour porpoise,2002-01-28,Exact,56.03459167,-3.484477758,U,150,TRUE,advanced decomposition (code 4),not necropsied,2002,Modern
+M15/02,Cetacean,Harbour porpoise,Single,15,Phocoena phocoena,Harbour porpoise,2002-01-29,Exact,56.03802872,-4.868459225,M,104,FALSE,freshly dead- died on beach (code 2a),necropsied,2002,Modern
+M18/02,Cetacean,Harbour porpoise,Single,18,Phocoena phocoena,Harbour porpoise,2002-02-06,Exact,56.19853592,-2.87831974,M,144,FALSE,Slight decomposition (code 2b),necropsied,2002,Modern
+M29/02,Cetacean,Harbour porpoise,Single,29,Phocoena phocoena,Harbour porpoise,2002-02-10,Exact,57.46209335,-7.403933525,U,120,TRUE,unknown,not necropsied,2002,Modern
+M38/02,Cetacean,Harbour porpoise,Single,38,Phocoena phocoena,Harbour porpoise,2002-02-17,Exact,59.09871292,-3.345841169,U,160,TRUE,unknown,not necropsied,2002,Modern
+M42/02,Cetacean,Harbour porpoise,Single,42,Phocoena phocoena,Harbour porpoise,2002-02-24,Exact,55.70699692,-6.293329716,U,150,TRUE,moderate decomposition (code 3),not necropsied,2002,Modern
+M32/02,Cetacean,Harbour porpoise,Single,32,Phocoena phocoena,Harbour porpoise,2002-03-01,Exact,57.52637482,-7.395065784,M,151,TRUE,advanced decomposition (code 4),not necropsied,2002,Modern
+M27/02,Cetacean,Harbour porpoise,Single,27,Phocoena phocoena,Harbour porpoise,2002-03-01,Exact,54.92659378,-4.993283272,F,133,FALSE,moderate decomposition (code 3),necropsied,2002,Modern
+M36/02,Cetacean,Harbour porpoise,Single,36,Phocoena phocoena,Harbour porpoise,2002-03-07,Exact,57.47954559,-7.374772072,F,124,TRUE,advanced decomposition (code 4),sampled,2002,Modern
+M35/02,Cetacean,Harbour porpoise,Single,35,Phocoena phocoena,Harbour porpoise,2002-03-09,Exact,59.97555542,-1.260057569,F,97,FALSE,freshly dead- died on beach (code 2a),necropsied,2002,Modern
+M44/02,Cetacean,Harbour porpoise,Single,44,Phocoena phocoena,Harbour porpoise,2002-03-15,Exact,57.19614792,-2.067804575,U,120,TRUE,moderate decomposition (code 3),not necropsied,2002,Modern
+M37/02,Cetacean,Harbour porpoise,Single,37,Phocoena phocoena,Harbour porpoise,2002-03-16,Exact,57.25724411,-2.036437035,U,150,TRUE,advanced decomposition (code 4),sampled,2002,Modern
+M45/02,Cetacean,Harbour porpoise,Single,45,Phocoena phocoena,Harbour porpoise,2002-03-17,Exact,57.20153809,-2.064518452,U,124,FALSE,freshly dead- died on beach (code 2a),necropsied,2002,Modern
+M46/02,Cetacean,Harbour porpoise,Single,46,Phocoena phocoena,Harbour porpoise,2002-03-20,Exact,57.19614792,-2.067804575,F,114,FALSE,Slight decomposition (code 2b),necropsied,2002,Modern
+M49/02,Cetacean,Harbour porpoise,Single,49,Phocoena phocoena,Harbour porpoise,2002-04-02,Exact,57.67742157,-3.980342627,M,116,FALSE,freshly dead- died on beach (code 2a),necropsied,2002,Modern
+M50/02,Cetacean,Harbour porpoise,Single,50,Phocoena phocoena,Harbour porpoise,2002-04-16,Exact,57.66869354,-3.062778711,M,151,FALSE,Slight decomposition (code 2b),necropsied,2002,Modern
+M55/02,Cetacean,Harbour porpoise,Single,55,Phocoena phocoena,Harbour porpoise,2002-04-23,Exact,57.3111496,-1.994980335,U,120,TRUE,moderate decomposition (code 3),not necropsied,2002,Modern
+M61/02,Cetacean,Harbour porpoise,Single,61,Phocoena phocoena,Harbour porpoise,2002-05-09,Exact,56.02869034,-3.373525858,F,119,FALSE,Slight decomposition (code 2b),necropsied,2002,Modern
+M62/02,Cetacean,Harbour porpoise,Single,62,Phocoena phocoena,Harbour porpoise,2002-05-11,Exact,57.24556351,-2.039729834,F,108,FALSE,Slight decomposition (code 2b),necropsied,2002,Modern
+M64/02,Cetacean,Harbour porpoise,Single,64,Phocoena phocoena,Harbour porpoise,2002-05-12,Exact,57.39281845,-1.860220909,U,130,TRUE,unknown,not necropsied,2002,Modern
+M66/02,Cetacean,Harbour porpoise,Single,66,Phocoena phocoena,Harbour porpoise,2002-05-12,Exact,56.63010025,-2.498747587,U,100,TRUE,unknown,not necropsied,2002,Modern
+M71/02,Cetacean,Harbour porpoise,Single,71,Phocoena phocoena,Harbour porpoise,2002-05-23,Exact,57.25318527,-5.90441227,U,140,TRUE,advanced decomposition (code 4),not necropsied,2002,Modern
+M70/02,Cetacean,Harbour porpoise,Single,70,Phocoena phocoena,Harbour porpoise,2002-05-25,Exact,57.65964508,-1.906117797,M,128,FALSE,Slight decomposition (code 2b),necropsied,2002,Modern
+M72/02,Cetacean,Harbour porpoise,Single,72,Phocoena phocoena,Harbour porpoise,2002-05-27,Exact,57.32371521,-1.970065832,F,76,FALSE,freshly dead- died on beach (code 2a),necropsied,2002,Modern
+M73/02,Cetacean,Harbour porpoise,Single,73,Phocoena phocoena,Harbour porpoise,2002-05-29,Exact,60.18654251,-1.437434912,M,139,FALSE,Slight decomposition (code 2b),necropsied,2002,Modern
+M90/02,Cetacean,Harbour porpoise,Single,90,Phocoena phocoena,Harbour porpoise,2002-05-30,Exact,58.07448196,-3.737757206,U,120,TRUE,unknown,not necropsied,2002,Modern
+M74/02,Cetacean,Harbour porpoise,Single,74,Phocoena phocoena,Harbour porpoise,2002-05-30,Exact,57.25185394,-2.036428213,M,84,FALSE,freshly dead- died on beach (code 2a),necropsied,2002,Modern
+M76/02,Cetacean,Harbour porpoise,Single,76,Phocoena phocoena,Harbour porpoise,2002-06-01,Exact,59.2859993,-3.205787659,F,155,FALSE,Slight decomposition (code 2b),necropsied,2002,Modern
+M687/02,Cetacean,Harbour porpoise,Single,687,Phocoena phocoena,Harbour porpoise,2002-06-01,Exact,58.96496582,-2.792865515,U,NA,TRUE,advanced decomposition (code 4),not necropsied,2002,Modern
+M78/02,Cetacean,Harbour porpoise,Single,78,Phocoena phocoena,Harbour porpoise,2002-06-03,Exact,57.57720184,-4.066881657,U,130,TRUE,freshly dead- died on beach (code 2a),not necropsied,2002,Modern
+M79/02,Cetacean,Harbour porpoise,Single,79,Phocoena phocoena,Harbour porpoise,2002-06-06,Exact,57.58697891,-3.901808739,M,143,FALSE,moderate decomposition (code 3),necropsied,2002,Modern
+M681/02,Cetacean,Harbour porpoise,Single,681,Phocoena phocoena,Harbour porpoise,2002-06-06,Exact,58.4767189,-5.086954117,U,75,TRUE,moderate decomposition (code 3),not necropsied,2002,Modern
+M688/02,Cetacean,Harbour porpoise,Single,688,Phocoena phocoena,Harbour porpoise,2002-06-13,Exact,59.26732635,-2.485867023,U,86,TRUE,unknown,not necropsied,2002,Modern
+M85/02,Cetacean,Harbour porpoise,Single,85,Phocoena phocoena,Harbour porpoise,2002-06-14,Exact,60.1372757,-1.276245713,M,147,FALSE,moderate decomposition (code 3),necropsied,2002,Modern
+M91/02,Cetacean,Harbour porpoise,Single,91,Phocoena phocoena,Harbour porpoise,2002-06-24,Exact,57.92863846,-4.002600193,U,100,TRUE,unknown,not necropsied,2002,Modern
+M88/02,Cetacean,Harbour porpoise,Single,88,Phocoena phocoena,Harbour porpoise,2002-06-25,Exact,55.47520447,-4.632753372,F,164,FALSE,freshly dead- died on beach (code 2a),necropsied,2002,Modern
+M89/02,Cetacean,Harbour porpoise,Single,89,Phocoena phocoena,Harbour porpoise,2002-06-26,Exact,55.46969223,-5.711770535,M,147,FALSE,freshly dead- died on beach (code 2a),necropsied,2002,Modern
+M99/02,Cetacean,Harbour porpoise,Single,99,Phocoena phocoena,Harbour porpoise,2002-07-14,Exact,57.58636093,-7.506178856,U,NA,TRUE,indeterminate (code 5),sampled,2002,Modern
+M101/02,Cetacean,Harbour porpoise,Single,101,Phocoena phocoena,Harbour porpoise,2002-07-15,Exact,57.05815125,-6.491272926,U,135,TRUE,indeterminate (code 5),sampled,2002,Modern
+M108/02,Cetacean,Harbour porpoise,Single,108,Phocoena phocoena,Harbour porpoise,2002-07-27,Exact,56.46536255,-2.88122344,F,66,FALSE,freshly dead- died on beach (code 2a),necropsied,2002,Modern
+M130/02,Cetacean,Harbour porpoise,Single,130,Phocoena phocoena,Harbour porpoise,2002-08-15,Exact,55.86190033,-5.088850498,F,120,FALSE,freshly dead- died on beach (code 2a),necropsied,2002,Modern
+M155/02,Cetacean,Harbour porpoise,Single,155,Phocoena phocoena,Harbour porpoise,2002-08-20,Exact,56.54423523,-2.614704609,M,105,FALSE,advanced decomposition (code 4),necropsied,2002,Modern
+M161/02,Cetacean,Harbour porpoise,Single,161,Phocoena phocoena,Harbour porpoise,2002-08-23,Exact,55.36694336,-4.772335052,U,140,TRUE,advanced decomposition (code 4),not necropsied,2002,Modern
+M203/02,Cetacean,Harbour porpoise,Single,203,Phocoena phocoena,Harbour porpoise,2002-09-06,Exact,55.98613358,-4.896690845,F,150,FALSE,Slight decomposition (code 2b),necropsied,2002,Modern
+M205/02,Cetacean,Harbour porpoise,Single,205,Phocoena phocoena,Harbour porpoise,2002-09-08,Exact,56.05608368,-4.903550148,M,146,FALSE,Slight decomposition (code 2b),necropsied,2002,Modern
+M243/02,Cetacean,Harbour porpoise,Single,243,Phocoena phocoena,Harbour porpoise,2002-09-23,Exact,56.0594368,-2.711361408,F,160,FALSE,Slight decomposition (code 2b),necropsied,2002,Modern
+M257/02,Cetacean,Harbour porpoise,Single,257,Phocoena phocoena,Harbour porpoise,2002-09-27,Exact,55.68172455,-6.26985693,M,121,TRUE,advanced decomposition (code 4),sampled,2002,Modern
+M299/02,Cetacean,Harbour porpoise,Single,299,Phocoena phocoena,Harbour porpoise,2002-10-07,Exact,55.98164749,-2.439079285,U,NA,TRUE,indeterminate (code 5),not necropsied,2002,Modern
+M356/02,Cetacean,Harbour porpoise,Single,356,Phocoena phocoena,Harbour porpoise,2002-10-19,Exact,57.69040298,-2.929218054,M,115,FALSE,freshly dead- died on beach (code 2a),necropsied,2002,Modern
+M441/02,Cetacean,Harbour porpoise,Single,441,Phocoena phocoena,Harbour porpoise,2002-11-10,Exact,54.85327911,-3.785043716,F,170,FALSE,moderate decomposition (code 3),necropsied,2002,Modern
+M445/02,Cetacean,Harbour porpoise,Single,445,Phocoena phocoena,Harbour porpoise,2002-11-11,Exact,56.20965195,-2.954351664,M,99,FALSE,Slight decomposition (code 2b),necropsied,2002,Modern
+M460/02,Cetacean,Harbour porpoise,Single,460,Phocoena phocoena,Harbour porpoise,2002-11-13,Exact,56.39720154,-5.574656963,U,150,TRUE,unknown,not necropsied,2002,Modern
+M502/02,Cetacean,Harbour porpoise,Single,502,Phocoena phocoena,Harbour porpoise,2002-11-22,Exact,56.01058197,-5.317341805,F,166,FALSE,Slight decomposition (code 2b),necropsied,2002,Modern
+M546/02,Cetacean,Harbour porpoise,Single,546,Phocoena phocoena,Harbour porpoise,2002-11-29,Exact,60.26649857,-1.114335418,F,149,FALSE,moderate decomposition (code 3),necropsied,2002,Modern
+M580/02,Cetacean,Harbour porpoise,Single,580,Phocoena phocoena,Harbour porpoise,2002-12-04,Exact,57.56671524,-7.461335659,F,135,FALSE,Slight decomposition (code 2b),necropsied,2002,Modern
+M590/02,Cetacean,Harbour porpoise,Single,590,Phocoena phocoena,Harbour porpoise,2002-12-11,Exact,56.33485794,-2.781172991,M,152,FALSE,freshly dead- died on beach (code 2a),necropsied,2002,Modern
+M594/02,Cetacean,Harbour porpoise,Single,594,Phocoena phocoena,Harbour porpoise,2002-12-11,Exact,56.21117783,-2.73029542,F,109,FALSE,freshly dead- died on beach (code 2a),necropsied,2002,Modern
+M604/02,Cetacean,Harbour porpoise,Single,604,Phocoena phocoena,Harbour porpoise,2002-12-13,Exact,57.25095367,-2.038078785,M,104,FALSE,moderate decomposition (code 3),necropsied,2002,Modern
+M616/02,Cetacean,Harbour porpoise,Single,616,Phocoena phocoena,Harbour porpoise,2002-12-17,Exact,56.73905182,-2.434791803,F,146,TRUE,advanced decomposition (code 4),sampled,2002,Modern
+M664/02,Cetacean,Harbour porpoise,Single,664,Phocoena phocoena,Harbour porpoise,2002-12-29,Exact,56.96692657,-2.203899622,U,85,FALSE,moderate decomposition (code 3),necropsied,2002,Modern
+M15/03,Cetacean,Harbour porpoise,Single,15,Phocoena phocoena,Harbour porpoise,2003-01-03,Exact,56.77239609,-2.40246129,U,110,TRUE,unknown,not necropsied,2003,Modern
+M99/03,Cetacean,Harbour porpoise,Single,99,Phocoena phocoena,Harbour porpoise,2003-01-03,Exact,57.15855026,-7.304798126,F,154,TRUE,moderate decomposition (code 3),sampled,2003,Modern
+M22/03,Cetacean,Harbour porpoise,Single,22,Phocoena phocoena,Harbour porpoise,2003-01-07,Exact,56.19408035,-2.992647648,U,100,TRUE,freshly dead- died on beach (code 2a),not necropsied,2003,Modern
+M16/03,Cetacean,Harbour porpoise,Single,16,Phocoena phocoena,Harbour porpoise,2003-01-08,Exact,57.14942932,-2.075985193,F,138,FALSE,moderate decomposition (code 3),necropsied,2003,Modern
+M24/03,Cetacean,Harbour porpoise,Single,24,Phocoena phocoena,Harbour porpoise,2003-01-10,Exact,57.15391922,-2.077645063,M,145,FALSE,moderate decomposition (code 3),necropsied,2003,Modern
+M29/03,Cetacean,Harbour porpoise,Single,29,Phocoena phocoena,Harbour porpoise,2003-01-10,Exact,57.14494324,-2.072670221,U,NA,TRUE,advanced decomposition (code 4),not necropsied,2003,Modern
+M23/03,Cetacean,Harbour porpoise,Single,23,Phocoena phocoena,Harbour porpoise,2003-01-10,Exact,58.57657623,-4.767122746,F,133,FALSE,freshly dead- died on beach (code 2a),necropsied,2003,Modern
+M45/03,Cetacean,Harbour porpoise,Single,45,Phocoena phocoena,Harbour porpoise,2003-01-18,Exact,56.34113693,-2.782919645,M,160,FALSE,Slight decomposition (code 2b),necropsied,2003,Modern
+M63/03,Cetacean,Harbour porpoise,Single,63,Phocoena phocoena,Harbour porpoise,2003-01-25,Exact,57.13327408,-2.059441566,U,120,TRUE,advanced decomposition (code 4),not necropsied,2003,Modern
+M85/03,Cetacean,Harbour porpoise,Single,85,Phocoena phocoena,Harbour porpoise,2003-02-01,Exact,57.51821518,-7.375460148,U,120,TRUE,moderate decomposition (code 3),not necropsied,2003,Modern
+M82/03,Cetacean,Harbour porpoise,Single,82,Phocoena phocoena,Harbour porpoise,2003-02-12,Exact,58.95025635,-2.973290205,U,135,TRUE,advanced decomposition (code 4),not necropsied,2003,Modern
+M86/03,Cetacean,Harbour porpoise,Single,86,Phocoena phocoena,Harbour porpoise,2003-02-17,Exact,57.27431488,-2.018197536,F,113,FALSE,freshly dead- died on beach (code 2a),necropsied,2003,Modern
+M89/03,Cetacean,Harbour porpoise,Single,89,Phocoena phocoena,Harbour porpoise,2003-02-19,Exact,55.62681198,-6.219354153,F,136,FALSE,Slight decomposition (code 2b),necropsied,2003,Modern
+M191/03,Cetacean,Harbour porpoise,Single,191,Phocoena phocoena,Harbour porpoise,2003-02-20,Exact,58.96279144,-2.978855371,F,114,TRUE,freshly dead- died on beach (code 2a),not necropsied,2003,Modern
+M104/03,Cetacean,Harbour porpoise,Single,104,Phocoena phocoena,Harbour porpoise,2003-02-22,Exact,56.0095787,-3.546072006,U,150,TRUE,moderate decomposition (code 3),not necropsied,2003,Modern
+M96/03,Cetacean,Harbour porpoise,Single,96,Phocoena phocoena,Harbour porpoise,2003-02-23,Exact,55.86278152,-4.980209827,F,109,FALSE,freshly dead- died on beach (code 2a),necropsied,2003,Modern
+M112/03,Cetacean,Harbour porpoise,Single,112,Phocoena phocoena,Harbour porpoise,2003-02-27,Exact,55.49225616,-5.094666004,U,150,TRUE,moderate decomposition (code 3),not necropsied,2003,Modern
+M105/03,Cetacean,Harbour porpoise,Single,105,Phocoena phocoena,Harbour porpoise,2003-03-01,Exact,57.34706497,-1.93350482,M,114,FALSE,freshly dead- died on beach (code 2a),necropsied,2003,Modern
+M106/03,Cetacean,Harbour porpoise,Single,106,Phocoena phocoena,Harbour porpoise,2003-03-02,Exact,56.20385742,-2.888120651,U,100,TRUE,moderate decomposition (code 3),not necropsied,2003,Modern
+M108/03,Cetacean,Harbour porpoise,Single,108,Phocoena phocoena,Harbour porpoise,2003-03-03,Exact,55.98523331,-4.896630287,F,125,FALSE,moderate decomposition (code 3),necropsied,2003,Modern
+M113/03,Cetacean,Harbour porpoise,Single,113,Phocoena phocoena,Harbour porpoise,2003-03-05,Exact,56.67240143,-2.479714155,M,110,TRUE,Slight decomposition (code 2b),not necropsied,2003,Modern
+M115/03,Cetacean,Harbour porpoise,Single,115,Phocoena phocoena,Harbour porpoise,2003-03-07,Exact,56.5496521,-2.608294725,M,141,FALSE,moderate decomposition (code 3),necropsied,2003,Modern
+M116/03,Cetacean,Harbour porpoise,Single,116,Phocoena phocoena,Harbour porpoise,2003-03-07,Exact,57.87903214,-4.015011787,M,106,FALSE,moderate decomposition (code 3),necropsied,2003,Modern
+M120/03,Cetacean,Harbour porpoise,Single,120,Phocoena phocoena,Harbour porpoise,2003-03-09,Exact,57.87810135,-4.016643047,F,113,FALSE,moderate-advanced decomposition (code 3-4),necropsied,2003,Modern
+M118/03,Cetacean,Harbour porpoise,Single,118,Phocoena phocoena,Harbour porpoise,2003-03-10,Exact,55.84980011,-5.140624046,M,149,FALSE,Slight decomposition (code 2b),necropsied,2003,Modern
+M122/03,Cetacean,Harbour porpoise,Single,122,Phocoena phocoena,Harbour porpoise,2003-03-10,Exact,57.31953049,-6.107568741,M,104,FALSE,freshly dead- died on beach (code 2a),necropsied,2003,Modern
+M123/03,Cetacean,Harbour porpoise,Single,123,Phocoena phocoena,Harbour porpoise,2003-03-13,Exact,56.77420807,-2.397564173,M,120,TRUE,advanced decomposition (code 4),not necropsied,2003,Modern
+M192/03,Cetacean,Harbour porpoise,Single,192,Phocoena phocoena,Harbour porpoise,2003-03-16,Exact,58.92391968,-3.120179415,U,120,TRUE,advanced decomposition (code 4),not necropsied,2003,Modern
+M130/03,Cetacean,Harbour porpoise,Single,130,Phocoena phocoena,Harbour porpoise,2003-03-17,Exact,57.34796143,-1.930166125,F,104,FALSE,Slight decomposition (code 2b),necropsied,2003,Modern
+M140/03,Cetacean,Harbour porpoise,Single,140,Phocoena phocoena,Harbour porpoise,2003-03-30,Exact,56.00963211,-3.390488386,M,102,FALSE,freshly dead- died on beach (code 2a),necropsied,2003,Modern
+M141/03,Cetacean,Harbour porpoise,Single,141,Phocoena phocoena,Harbour porpoise,2003-03-31,Exact,55.99320602,-3.412345409,M,110,FALSE,freshly dead- died on beach (code 2a),necropsied,2003,Modern
+M143/03,Cetacean,Harbour porpoise,Single,143,Phocoena phocoena,Harbour porpoise,2003-04-03,Exact,57.68082047,-2.576806068,F,123,FALSE,freshly dead- died on beach (code 2a),necropsied,2003,Modern
+M148/03,Cetacean,Harbour porpoise,Single,148,Phocoena phocoena,Harbour porpoise,2003-04-09,Exact,57.75209427,-3.915509701,M,112,FALSE,freshly dead- died on beach (code 2a),necropsied,2003,Modern
+M149/03,Cetacean,Harbour porpoise,Single,149,Phocoena phocoena,Harbour porpoise,2003-04-10,Exact,57.67473221,-3.091446877,F,95,FALSE,Slight decomposition (code 2b),necropsied,2003,Modern
+M150/03,Cetacean,Harbour porpoise,Single,150,Phocoena phocoena,Harbour porpoise,2003-04-11,Exact,57.67991638,-2.326945782,F,125,FALSE,freshly dead- died on beach (code 2a),necropsied,2003,Modern
+M153/03,Cetacean,Harbour porpoise,Single,153,Phocoena phocoena,Harbour porpoise,2003-04-14,Exact,57.24197006,-2.043043613,U,100,TRUE,unknown,not necropsied,2003,Modern
+M154/03B,Cetacean,Harbour porpoise,Single,154,Phocoena phocoena,Harbour porpoise,2003-04-14,Exact,55.99320602,-3.412345409,F,106,FALSE,moderate decomposition (code 3),necropsied,2003,Modern
+M154/03A,Cetacean,Harbour porpoise,Single,154,Phocoena phocoena,Harbour porpoise,2003-04-14,Exact,55.99320602,-3.412345409,M,105,FALSE,moderate decomposition (code 3),necropsied,2003,Modern
+M152/03,Cetacean,Harbour porpoise,Single,152,Phocoena phocoena,Harbour porpoise,2003-04-14,Exact,58.00918961,-3.84460187,M,138,FALSE,freshly dead- died on beach (code 2a),necropsied,2003,Modern
+M156/03,Cetacean,Harbour porpoise,Single,156,Phocoena phocoena,Harbour porpoise,2003-04-19,Exact,57.69204712,-4.02140379,F,112,FALSE,advanced decomposition (code 4),necropsied,2003,Modern
+M157/03,Cetacean,Harbour porpoise,Single,157,Phocoena phocoena,Harbour porpoise,2003-04-21,Exact,57.66379547,-3.610777855,U,NA,TRUE,unknown,not necropsied,2003,Modern
+M161/03,Cetacean,Harbour porpoise,Single,161,Phocoena phocoena,Harbour porpoise,2003-04-26,Exact,56.20377731,-2.765612125,F,149,FALSE,Slight decomposition (code 2b),necropsied,2003,Modern
+M165/03,Cetacean,Harbour porpoise,Single,165,Phocoena phocoena,Harbour porpoise,2003-04-30,Exact,56.32235718,-5.582206249,M,103,FALSE,freshly dead- died on beach (code 2a),necropsied,2003,Modern
+M177/03,Cetacean,Harbour porpoise,Single,177,Phocoena phocoena,Harbour porpoise,2003-05-18,Exact,57.60565948,-1.82257545,F,165,FALSE,moderate decomposition (code 3),necropsied,2003,Modern
+M179/03,Cetacean,Harbour porpoise,Single,179,Phocoena phocoena,Harbour porpoise,2003-05-20,Exact,56.03463745,-3.322368145,U,140,TRUE,moderate decomposition (code 3),not necropsied,2003,Modern
+M178/03,Cetacean,Harbour porpoise,Single,178,Phocoena phocoena,Harbour porpoise,2003-05-20,Exact,57.66373444,-3.615799665,M,102,FALSE,advanced decomposition (code 4),necropsied,2003,Modern
+M335/03,Cetacean,Harbour porpoise,Single,335,Phocoena phocoena,Harbour porpoise,2003-05-31,Exact,59.26822281,-2.485888958,U,NA,FALSE,freshly dead- died on beach (code 2a),not necropsied,2003,Modern
+M195/03,Cetacean,Harbour porpoise,Single,195,Phocoena phocoena,Harbour porpoise,2003-06-13,Exact,55.22737503,-4.860137939,F,173,FALSE,Slight decomposition (code 2b),necropsied,2003,Modern
+M197/03,Cetacean,Harbour porpoise,Single,197,Phocoena phocoena,Harbour porpoise,2003-06-14,Exact,55.66245651,-5.154212952,F,154,FALSE,Slight decomposition (code 2b),necropsied,2003,Modern
+M205/03,Cetacean,Harbour porpoise,Single,205,Phocoena phocoena,Harbour porpoise,2003-06-18,Exact,57.58232117,-7.433525562,F,157,TRUE,unknown,sampled,2003,Modern
+M210/03,Cetacean,Harbour porpoise,Single,210,Phocoena phocoena,Harbour porpoise,2003-06-26,Exact,55.94776917,-4.922661781,F,152,FALSE,moderate decomposition (code 3),necropsied,2003,Modern
+M217/03,Cetacean,Harbour porpoise,Single,217,Phocoena phocoena,Harbour porpoise,2003-07-02,Exact,56.18095016,-2.823152304,F,150,FALSE,Slight decomposition (code 2b),necropsied,2003,Modern
+M218/03,Cetacean,Harbour porpoise,Single,218,Phocoena phocoena,Harbour porpoise,2003-07-04,Exact,57.65515137,-1.899420857,M,161,FALSE,moderate decomposition (code 3),necropsied,2003,Modern
+M230/03,Cetacean,Harbour porpoise,Single,230,Phocoena phocoena,Harbour porpoise,2003-07-16,Exact,56.09469223,-3.158864737,U,100,TRUE,indeterminate (code 5),not necropsied,2003,Modern
+M229/03,Cetacean,Harbour porpoise,Single,229,Phocoena phocoena,Harbour porpoise,2003-07-16,Exact,56.64085388,-2.507032633,U,146,TRUE,advanced decomposition (code 4),not necropsied,2003,Modern
+M234/03,Cetacean,Harbour porpoise,Single,234,Phocoena phocoena,Harbour porpoise,2003-07-17,Exact,57.71854019,-3.388244867,U,120,TRUE,advanced decomposition (code 4),not necropsied,2003,Modern
+M237/03,Cetacean,Harbour porpoise,Single,237,Phocoena phocoena,Harbour porpoise,2003-07-19,Exact,54.85116577,-4.238271236,F,146,FALSE,advanced decomposition (code 4),necropsied,2003,Modern
+M236/03,Cetacean,Harbour porpoise,Single,236,Phocoena phocoena,Harbour porpoise,2003-07-19,Exact,57.68026733,-4.027461052,M,65,FALSE,advanced decomposition (code 4),necropsied,2003,Modern
+M244/03,Cetacean,Harbour porpoise,Single,244,Phocoena phocoena,Harbour porpoise,2003-08-08,Exact,55.89624786,-4.896381855,M,144,FALSE,moderate decomposition (code 3),necropsied,2003,Modern
+M256/03,Cetacean,Harbour porpoise,Single,256,Phocoena phocoena,Harbour porpoise,2003-08-18,Exact,56.83473587,-2.272018433,M,140,TRUE,advanced decomposition (code 4),not necropsied,2003,Modern
+M264/03,Cetacean,Harbour porpoise,Single,264,Phocoena phocoena,Harbour porpoise,2003-09-09,Exact,57.57403946,-4.095121861,F,97.5,FALSE,freshly dead- died on beach (code 2a),necropsied,2003,Modern
+M266/03,Cetacean,Harbour porpoise,Single,266,Phocoena phocoena,Harbour porpoise,2003-09-12,Exact,56.75436401,-2.421898365,F,120,FALSE,advanced decomposition (code 4),necropsied,2003,Modern
+M268/03,Cetacean,Harbour porpoise,Single,268,Phocoena phocoena,Harbour porpoise,2003-09-15,Exact,56.79145813,-2.335548401,M,117,FALSE,advanced decomposition (code 4),necropsied,2003,Modern
+M284/03,Cetacean,Harbour porpoise,Single,284,Phocoena phocoena,Harbour porpoise,2003-10-05,Exact,56.66064453,-2.500776529,M,134,FALSE,advanced decomposition (code 4),necropsied,2003,Modern
+M287/03,Cetacean,Harbour porpoise,Single,287,Phocoena phocoena,Harbour porpoise,2003-10-18,Exact,56.09825134,-3.162181139,F,98,FALSE,freshly dead- died on beach (code 2a),necropsied,2003,Modern
+M290/03,Cetacean,Harbour porpoise,Single,290,Phocoena phocoena,Harbour porpoise,2003-10-26,Exact,57.72034836,-3.30269146,F,95,FALSE,moderate decomposition (code 3),necropsied,2003,Modern
+M291/03,Cetacean,Harbour porpoise,Single,291,Phocoena phocoena,Harbour porpoise,2003-10-27,Exact,57.1503334,-2.077651739,F,109,FALSE,moderate decomposition (code 3),necropsied,2003,Modern
+M294/03,Cetacean,Harbour porpoise,Single,294,Phocoena phocoena,Harbour porpoise,2003-10-29,Exact,57.87905884,-4.013338566,U,60,TRUE,unknown,not necropsied,2003,Modern
+M303/03,Cetacean,Harbour porpoise,Single,303,Phocoena phocoena,Harbour porpoise,2003-11-09,Exact,56.6489296,-2.508773327,F,145,FALSE,Slight decomposition (code 2b),necropsied,2003,Modern
+M307/03,Cetacean,Harbour porpoise,Single,307,Phocoena phocoena,Harbour porpoise,2003-11-11,Exact,55.91765976,-2.140766144,U,120,TRUE,advanced decomposition (code 4),not necropsied,2003,Modern
+M311/03,Cetacean,Harbour porpoise,Single,311,Phocoena phocoena,Harbour porpoise,2003-11-22,Exact,54.7902565,-4.368684292,F,173,FALSE,moderate decomposition (code 3),necropsied,2003,Modern
+M325/03,Cetacean,Harbour porpoise,Single,325,Phocoena phocoena,Harbour porpoise,2003-12-18,Exact,57.66670609,-2.516250849,U,130,TRUE,freshly dead- died on beach (code 2a),not necropsied,2003,Modern
+M327/03,Cetacean,Harbour porpoise,Single,327,Phocoena phocoena,Harbour porpoise,2003-12-21,Exact,56.03820419,-3.325710297,U,120,TRUE,Slight decomposition (code 2b),not necropsied,2003,Modern
+M330/03,Cetacean,Harbour porpoise,Single,330,Phocoena phocoena,Harbour porpoise,2003-12-26,Exact,58.46306229,-5.05659008,U,120,TRUE,Slight decomposition (code 2b),not necropsied,2003,Modern
